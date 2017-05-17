@@ -2,5 +2,5 @@
 
 | Projets en cours | &nbsp; |
 | --- | --- |
+| Inscription du syndic à la BCE | https://bobjr-1.github.io/Temp/BCE/Inscription_syndic.html |
 | Service Social - déclaration 2017 | https://bobjr-1.github.io/Temp/SSoc/SSoc.html |
-
