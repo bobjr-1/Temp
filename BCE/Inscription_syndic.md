@@ -32,14 +32,14 @@ L’ACP doit introduire un dossier auprès de la Banque Carrefour des Entreprise
 | --- | --- |
 | a) le numéro d’entreprise de l’association des copropriétaires, | **0850.083.452**<br>(depuis le 01.10.1961) |
 | b) un extrait de l’acte de nomination par l’assemblée générale, | [**doc1**](https://drive.google.com/open?id=0B_p7giU0NqM8WGZLdDNudkNHZnc) - [**doc2**](https://drive.google.com/open?id=0B_p7giU0NqM8WkJWdmxQUlgzTEE) - [**doc3**](https://drive.google.com/open?id=0B_p7giU0NqM8ODZIbU5KOFo1Qk0) |
-| c) le numéro d’identification à la BCE du syndic | 0xxx.xxx.xxx |
+| c) le numéro d’identification à la BCE du syndic |  0824.013.713<br>(n° de *Managimm sprl*) |
 
 **Modalités**
 
 | article du *Cri* | renseignements pertinents |
 | --- | --- |
-| Cette inscription est totalement indépendante de l’obligation<br>du syndic professionnel de faire inscrire sa propre société<br>à la BCE. | &nbsp; |
-| Où procéder a l’inscription ? | au guichet d'entreprise de Bruxelles |
+| Cette inscription est totalement indépendante<br>de l’obligation du syndic professionnel<br>de faire inscrire sa propre société à la BCE | &nbsp; |
+| Où procéder a l’inscription ? | à un [guichet d'entreprise](http://economie.fgov.be/fr/entreprises/vie_entreprise/Creer/Guichets_entreprises_agrees/#Liste) au choix |
 | Prix de la publicité : **85 &euro;** | ce sont des frais administratifs<br>à répartir au prorata des quotités |
 | Date limite pour l'enregistrement | 31.03.2018 |
 
