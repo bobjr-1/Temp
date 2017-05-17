@@ -2,5 +2,5 @@
 
 | Projets en cours | &nbsp; |
 | --- | --- |
-| Service Social - déclaration 2017 | https://bobjr-1.github.io/Temp/ |
+| Service Social - déclaration 2017 | https://bobjr-1.github.io/Temp/SSoc/SSoc.html |
 
