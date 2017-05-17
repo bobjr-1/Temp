@@ -31,7 +31,7 @@ L’ACP doit introduire un dossier auprès de la Banque Carrefour des Entreprise
 | article du *Cri* | renseignements pertinents |
 | --- | --- |
 | a) le numéro d’entreprise de l’association des copropriétaires, | **0850.083.452**<br>(depuis le 01.10.1961) |
-| b) un extrait de l’acte de nomination par l’assemblée générale, | [**doc1**](https://drive.google.com/open?id=0B_p7giU0NqM8WGZLdDNudkNHZnc) - [**doc2**](https://drive.google.com/open?id=0B_p7giU0NqM8WkJWdmxQUlgzTEE) - [**doc3**](https://drive.google.com/open?id=0B_p7giU0NqM8ODZIbU5KOFo1Qk0) |
+| b) un extrait de l’acte de nomination par l’assemblée générale, | [**doc1**](https://drive.google.com/open?id=0B_p7giU0NqM8WGZLdDNudkNHZnc) - [**doc2**](https://drive.google.com/open?id=0B_p7giU0NqM8WkJWdmxQUlgzTEE) - [**doc3**](https://drive.google.com/open?id=0B_p7giU0NqM8ODZIbU5KOFo1Qk0)<br>=&gt; date de nomination : **29.07.2013** |
 | c) le numéro d’identification à la BCE du syndic |  0824.013.713<br>(n° de *Managimm sprl*) |
 
 **Modalités**
