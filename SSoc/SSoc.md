@@ -1,3 +1,5 @@
+[**TEST**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html)
+
 ## Projet de déclaration "Service Social"
 
 Les commissaires aux comptes ont été avertis le 9 mars 2017 que la comptable avait vérifié les comptes 2016 et qu'ils pouvaient par conséquent en effectuer la vérification. Rendez-vous a été pris en ce sens pour le 23 mars 2017 avec Monsieur Conrad.
@@ -8,7 +10,7 @@ Ce jour là, les commissaires aux comptes Dumoulin et Verdin ont vérifié les p
 
 ---
 
-En [**TEST** avance](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) de cette réunion, ils avaient notamment reçu le document "Bilan ASBL schéma abrégé.pdf" ; à ce propos, ils ont constaté que le compte de résultats présente les valeurs suivantes (arrondies à l'euro le plus proche)
+En avance de cette réunion, ils avaient notamment reçu le document "Bilan ASBL schéma abrégé.pdf" ; à ce propos, ils ont constaté que le compte de résultats présente les valeurs suivantes (arrondies à l'euro le plus proche)
 
 <table>
 	<tr><th>Compte de résultat</th><th>Année 2015</th><th>Année 2016</th><th>Diff.</th></tr>
