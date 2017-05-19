@@ -16,6 +16,8 @@ Cet arrêté royal est entré en vigueur le 01.04.2017. Il est destiné à perme
 * de repérer facilement les syndics ou syndics provisoires qui exercent la profession illégalement ;  
 * de collecter des données statistiques.  ( source - [I.P.I.](http://www.ipi.be/publications/toutes-les-publications/inscription-des-syndics-la-bce-pour-plus-de-transparence) )
 
+Il convient de noter que cette nouvelle réglementation ne crée des obligations que dans le chef du syndic. Par conséquent, <u>aucun passage par l'Assemblée Générale</u> n'est requis.
+
 Le syndic précédent avait inscrit l'ACP Brabançonne auprès de la BCE, avec pour date d'effet la date la plus lointaine autorisée par la législation sur la BCE : 01.10.1961.  
 &Agrave; partir de 2008, la codification des secteurs d'activité NACE-BEL a été aménagée. Pour cette raison, le syndic précédent a pris la précaution de réinscrire l'ACP, sans toutefois abandonner l'ancienne immatriculation. Ce numéro d'entreprise peut dès lors être abandonné, car il ne s'agit que d'une conversion administrative, comme indiqué en [note de bas de page](http://kbopub.economie.fgov.be/kbopub/toonvestigingps.html?vestigingsnummer=2188435311) du site de la BCE.  
 
