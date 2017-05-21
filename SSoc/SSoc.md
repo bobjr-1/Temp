@@ -71,7 +71,7 @@ Il convient de souligner que ces réserves étaient le fruit :
 * du respect scrupuleux de l'[**audit de 2006**](Audit_SSoc_2006.pdf) du SPF &Eacute;conomie, sous la direction de Mme Soetens et de M. Van Vaerenbergh.
 
 > En particulier, cet audit notait que des réformes étaient nécessaires, dans la mesure où les comptes n'avaient pas été approuvés de 2003 à 2008 inclus.  
-> Quant à l'arrêté royal de 2013, il rappelait que les "*dépenses afférentes à la mise à disposition de i'ASBL des **moyens matériels nécessaires** sont **à charge du budget du SPF**.*" (art. 9) et qu'il appartenait à l'assemblée générale de demander au conseil d'administration de lui présenter un rapport d'activité et un budget (art. 6 pt. 8°) de nature à assurer toutes les missions déléguées.
+> Quant à l'arrêté royal de 2013, négocié en Comité de Secteur IV dans la foulée de l'audit de 2006, il a fixé que les "*dépenses afférentes à la mise à disposition de i'ASBL des **moyens matériels nécessaires** sont **à charge du budget du SPF**.*" (art. 9) pour autant que l'assemblée générale demande au conseil d'administration de lui présenter un rapport d'activité et un budget (art. 6 pt. 8°) de nature à assurer toutes les missions sociales de l'employeur déléguées.
 
 Enfin, les Commissaires aux comptes ont pris connaissance du compte rendu du contact mené en novembre 2013 par Mme Devleeschouwer (vice-présidente du CA) et M. Dumoulin (administrateur, membre du Bureau du CA) avec Monsieur le Directeur "*B&C*" Massant à propos des montants envisageables pour assurer une budgétisation structurellement saine de l'asbl pour permettre à cette dernière d'assurer toutes les [missions déléguées par l'AR du 18.04.2013](AR_20130418.pdf).
 
