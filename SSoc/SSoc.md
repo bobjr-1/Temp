@@ -46,7 +46,7 @@ Il convient de noter que le résultat de l'exercice 2014 (constaté lors de l'ap
 
 La question principale qui a dès lors été soumise <font color="#aa0000"><b><u>pour avis</u></b></font> à l'attention <font color="#aa0000"><b><u>des commissaires aux comptes</u></b></font> dès l'Assemblée Générale du 26.05.2016 a été formulée par Madame Parys, membre effectif, sous le point 4. de son ordre du jour.
 
-> *"**Combien de temps pense-t-on encore <mark>vivre sur fonds propres</mark> ?**"*
+> *"**Combien de temps pense-t-on encore <mark>&nbsp;vivre sur fonds propres&nbsp;</mark> ?**"*
 
 Il convient de souligner que cette question portait sur la discussion d'un [**document de séance**](AG_2016_Budget_Question_FParys.pdf) dont le titre de la première rubrique était : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
 
@@ -56,21 +56,21 @@ le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était p
 
 Les Commissaires aux comptes ont retracé, à l'aide de la documentation mise à disposition, l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants des `subsides réellement accordés par l'Autorité`, ce, afin d'établir les part respectives :
 
-* du fonctionnement sur subside destinés à la réalisation *via* l'asbl des [**missions sociales de l'employeur**](AR_20130418.pdf) définies par l'AR du 18.04.2013 ;  
-* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ + fonds affectés + résultats reportés + provisions), en raison de l'insuffisance de couverture par le subside de l amise en &oelig;uvre par le conseil d'administration et le personnel détaché des missions déléguées.
+* du fonctionnement sur subsides destinés à la réalisation *via* l'asbl des [**missions sociales de l'employeur**](AR_20130418.pdf) définies par l'AR du 18.04.2013 ;  
+* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ + fonds affectés + résultats reportés + provisions), en raison de l'insuffisance de couverture par le subside de la mise en &oelig;uvre par le conseil d'administration et le personnel détaché des missions déléguées.
 
 ![](subside.png)  
 ( vue sur le [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
 
-&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu de la part de M. Conrad sa projection (calculée à un horizon de cinq années) des finances de l'asbl.  
-Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore 3 ans, reviendrait à épuiser toutes les réserves constituées antérieurement par l'asbl.
+&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu de la part de Monsieur Conrad sa projection (calculée à un horizon de cinq années) des finances de l'asbl.  
+Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore 3 ans, reviendrait à épuiser l'essentiel des réserves et provisions constituées antérieurement par l'asbl.
 
-Il convient de souligner que ces réserves étaient le fruit :
+Il convient de souligner que ces réserves et provisions étaient le fruit :
 
 * de la bonne gestion : comptes approuvés par l'AG et par le Ministre depuis 2009 ;  
 * du respect scrupuleux de l'[**audit de 2006**](Audit_SSoc_2006.pdf) du SPF &Eacute;conomie, sous la direction de Mme Soetens et de M. Van Vaerenbergh.
 
-> En particulier, cet audit notait que des réformes étaient nécessaires, dans la mesure où les comptes n'avaient pas été approuvés de 2003 à 2008 inclus.  
+> En particulier, cet audit notait que des réformes étaient nécessaires, dans la mesure où les comptes de l'asbl n'avaient pas été approuvés de 2003 (date de la réforme de la [législation sur les asbl](Loi_20020502_ASBL.pdf)) à 2008 inclus.  
 > Quant à l'arrêté royal de 2013, négocié en Comité de Secteur IV dans la foulée de l'audit de 2006, il a fixé que les "*dépenses afférentes à la mise à disposition de i'ASBL des **moyens matériels nécessaires** sont **à charge du budget du SPF**.*" (art. 9) pour autant que l'assemblée générale demande au conseil d'administration de lui présenter un rapport d'activité et un <mark>budget</mark> (art. 6 pt. 8°) <mark>de nature à assurer toutes les missions sociales</mark> déléguées à l'asbl par l'employeur.
 
 Enfin, les Commissaires aux comptes ont pris connaissance du compte rendu du contact mené en novembre 2013 par Mme Devleeschouwer (vice-présidente du CA) et M. Dumoulin (administrateur, membre du Bureau du CA) avec Monsieur le Directeur "*B&amp;C*" Massant à propos des montants envisageables pour assurer une budgétisation structurellement saine de l'asbl et permettre à cette dernière d'assurer de manière pérenne les missions de l'[AR du 18.04.2013](AR_20130418.pdf).
