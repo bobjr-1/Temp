@@ -52,12 +52,27 @@ Il convient de souligner que cette question portait sur la discussion d'un [**do
 
 Le total de cette rubrique, selon ce document, était de 264.750 &euro;.
 
-Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis 2008 en la confrontant avec celle des subsides réellement accordés par l'Autorité afin de réaliser les [missions prévues par l'AR du xx.xx.2013]() :
+Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis 2008 en la confrontant avec celle des subsides réellement accordés par l'Autorité afin de réaliser les [missions prévues par l'AR du 18.04.2013](AR_20130418.pdf) :
 
 ![](subside.png)
 ( [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
 
-&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu une projection sur x ans des finances de l'asbl de la part de M. Conrad.  
-Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore x ans, reviendrait à épuiser toutes les réserves constituées antérieurement par l'asbl, en raison de sa bonne gestion et de son respect de l'audit de 2006.
+&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu une projection sur 5 ans des finances de l'asbl de la part de M. Conrad.  
+Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore 3 ans, reviendrait à épuiser toutes les réserves constituées antérieurement par l'asbl, en raison de sa bonne gestion et de son respect scrupuleux de l'[**audit de 2006**]().
 
+> En particulier, cet audit recommandait 
+
+## Recommandations des Commissaires aux comptes
+
+Mesdames et Messieurs les membres effectifs,
+
+Arrivés au terme de la mission leur confiée par votre Assemblée Générale du 26.05.2016 et de leurs constatations à propos des budget, comptes, extraits financiers et justificatifs (factures, bons de commande, ordres de virement), les Commissaires aux comptes De Neve, Dumoulin et Verdin recommandent à votre Assemblée Générale statutaire 2017 de conclure :
+
+* à l'approbation des comptes de l'exercice 2016 (01.01.2016-31.12.2016)  
+* à l'approbation du bilan présenté par le conseil d'administration à la date du 31.12.2016 ;  
+* à l'octroi de la décharge au conseil d'administration pour sa gestion de l'année 2016 ;  
+* à donner mandat au conseil d'administration de solliciter de l'Autorité un subside permettant <u>structurellement</u> de faire face aux missions qui ont été dévolues à l'asbl par l'[AR du 18.04.2013](AR_20130418.pdf) ;  
+* à saisir pour ce faire le Comité de Secteur IV avec pour position commune aux délégations représentant les intérêts des travailleurs du SPF &Eacute;conomie un niveau de subside <u>structurel</u> de 2xx.000 &euro ; il va de soi que ce montant pourra, <u>conjoncturellement</u>, fluctuer en raison de l'évolution du coût de la vie, de la pyramide d'âge du personnel, etc.
+
+Les Commissaires aux comptes sont à votre disposition pour répondre à vos questions et sollicitent décharge.
 
