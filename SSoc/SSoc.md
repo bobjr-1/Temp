@@ -31,3 +31,7 @@ En avance de cette réunion, ils avaient notamment reçu le document "Bilan ASBL
 </table>
 
 La question principale qui a été posée lors de l'Assemblée Générale du xx.05.2016 a été posée par Mme Parys.
+
+> **Combien de temps pense-t-on encore vivre sur fonds propres ?**
+
+Il convient de souligner que cette question portait sur la discussion d'un <font color="red">[**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf)</font>
