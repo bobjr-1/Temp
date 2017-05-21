@@ -4,7 +4,7 @@ Les commissaires aux comptes ont été avertis le 9 mars 2017 que la comptable a
 Ce jour là, les commissaires aux comptes Dumoulin et Verdin ont vérifié les points suivants :
 
 * respect par les services comptables de la répartition indicative du budget de 195.000 &euro; adopté par l'AG du 26.05.2016 ;  
-* correcte imputation de l'intervention pour l'assurance hospitalisation (145.xxx &euro; en 2016) ;  
+* correcte imputation de l'intervention pour l'assurance hospitalisation (144.125,49 &euro; en 2016) ;  
 * enregistrement régulier, sans blanc ni interversion, des dépenses et recettes selon le plan comptable adopté par le conseil d'administration en 2010 ;  
 
 Le contrôle par sondage des factures (achats sociaux, prêts sociaux, réception du subside), des extraits des comptes financiers et de la comptabilité n'a par ailleurs révélé aucune erreur.
@@ -15,11 +15,11 @@ document d’approbation des comptes, sous réserve :
 * de toute remarque ultérieure ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
 * d'échanges de vues menés entre commissaires aux comptes et entre ceux-ci avec le président du conseil d'administration, M. F. Renard.  
 
-L'entrevue avec ce dernier a eu lieu le xx.05.2017.
+L'entrevue avec ce dernier a eu lieu le 22 mai 2017.
 
 ## Soutenabilité
 
-En avance de cette réunion, les commissaires aux comptes avaient notamment reçu le document "Bilan ASBL schéma abrégé.pdf" ; à ce propos, ils ont constaté que le compte de résultats présente les valeurs suivantes (arrondies à l'euro le plus proche).
+En avance de cette réunion, les commissaires aux comptes avaient notamment reçu le document "Bilan ASBL schéma abrégé.pdf" ; à ce propos, ils ont constaté que le compte de résultats présente les valeurs suivantes (arrondies à l'euro le plus proche)
 
 <table>
 	<tr><th>Compte de résultat</th><th>2015</th><th>2016</th><th>Diff.</th></tr>
@@ -50,9 +50,13 @@ La question principale qui a dès lors été soumise à l'attention des commissa
 
 Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
 
-Le total de cette rubrique, selon ce document, était de 264.750 &euro;.
+Le total de cette rubrique, selon ce document, était de 264.750 &euro;  
+Le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était par contre que de 195.000 &euro
 
-Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis 2008 en la confrontant avec celle des subsides réellement accordés par l'Autorité afin de réaliser les [missions prévues par l'AR du 18.04.2013](AR_20130418.pdf) :
+Les Commissaires aux comptes ont retracé l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants de `subsides réellement accordés par l'Autorité`, afin d'établir les part respectives
+
+* du fonctionnement sur subside permettant de réaliser les [missions prévues par l'AR du 18.04.2013](AR_20130418.pdf) ;  
+* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ, fonds affectés, résultats reportés, provisions)
 
 ![](subside.png)  
 ( [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
