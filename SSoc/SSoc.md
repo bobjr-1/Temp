@@ -30,7 +30,7 @@ En avance de cette réunion, les commissaires aux comptes avaient notamment reç
 	<tr><td><b>Marge d'exploitation</b></td><td>&nbsp;&nbsp;15.198</td><td>-68.374</td></tr>
 </table>
 
-Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + xx.xxx,xx &euro;
+Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + 6.201,84 &euro;
 
 <table>
 	<tr><th>Compte de résultat</th><th>2015</th><th>2016</th><th>Diff.</th></tr>
@@ -41,6 +41,9 @@ Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'a
 	<tr><td><b>Résultat de l'exercice</b></td><td>&nbsp;&nbsp;<b>15.507</b></td><td><b>-48.309</b></td><td>-63.816</td></tr>
 </table>
 
+Il convient de noter que le résultat de l'exercice 2014 (constaté lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + 7.470,82 &euro;
+
+
 La question principale qui a été posée lors de l'Assemblée Générale du 26.05.2016 a été posée par Mme Parys.
 
 > *"**Combien de temps pense-t-on encore vivre sur fonds propres ?**"*
@@ -49,7 +52,7 @@ Il convient de souligner que cette question portait sur la discussion d'un [**do
 
 Le total de cette rubrique, selon ce document, était de 264.750 &euro;.
 
-Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis ...
+Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis 2008
 
 [**TEST**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html)
 
