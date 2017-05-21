@@ -4,7 +4,7 @@
 | :--- |
 | **Point de situation** discuté lors des *Drinks* des 30.03.2017 et 18.05.2017 par les copropriétaires |
 | Transmission au Syndic par courriel à partir du 19.05.2017 |
-| Copie pour information à diffuser auprès des copropriétaires par courrier électronique **ou** courrier simple |
+| Copie pour information à diffuser auprès des copropriétaires par courrier électronique **ou** au moyen d'un courrier simple |
 
 ---
 
