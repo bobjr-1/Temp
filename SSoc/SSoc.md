@@ -1,4 +1,4 @@
-## Projet de déclaration "Service Social"
+## Déclaration en vue de l'AG de l'asbl "Service Social"
 
 Les commissaires aux comptes ont été avertis le 9 mars 2017 que la comptable avait vérifié les comptes 2016 et qu'ils pouvaient par conséquent en effectuer la vérification. Rendez-vous a été pris en ce sens pour le 23 mars 2017 avec Monsieur Conrad.
 Ce jour là, les commissaires aux comptes Dumoulin et Verdin ont vérifié les points suivants :
@@ -12,12 +12,12 @@ Le contrôle par sondage des factures (achats sociaux, prêts sociaux, réceptio
 En conséquence, les commissaires aux comptes ont signé un 
 document d’approbation des comptes, sous réserve :
 
-* de toute remarque ultérieure ; celles-ci sont reflétées sous la ligne ;  
+* de toute remarque ultérieure ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
 * d'échanges de vues menés entre commissaires aux comptes et entre ceux-ci avec le président du conseil d'administration, M. F. Renard.  
 
 L'entrevue avec ce dernier a eu lieu le xx.05.2017.
 
----
+## Soutenabilité
 
 En avance de cette réunion, les commissaires aux comptes avaient notamment reçu le document "Bilan ASBL schéma abrégé.pdf" ; à ce propos, ils ont constaté que le compte de résultats présente les valeurs suivantes (arrondies à l'euro le plus proche).
 
@@ -44,15 +44,20 @@ Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'a
 Il convient de noter que le résultat de l'exercice 2014 (constaté lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + 7.470,82 &euro;
 
 
-La question principale qui a été posée lors de l'Assemblée Générale du 26.05.2016 a été posée par Mme Parys.
+La question principale qui a dès lors été soumise à l'attention des commissaires aux comptes lors de l'Assemblée Générale du 26.05.2016 a été posée par Mme Parys.
 
 > *"**Combien de temps pense-t-on encore vivre sur fonds propres ?**"*
 
-Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="red">1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</font>.
+Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
 
 Le total de cette rubrique, selon ce document, était de 264.750 &euro;.
 
-Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis 2008
+Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis 2008 en la confrontant avec celle des subsides réellement accordés par l'Autorité afin de réaliser les [missions prévues par l'AR du xx.xx.2013]() :
 
-[**TEST**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html)
+![](subside.png)
+( [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
+
+&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu une projection sur x ans des finances de l'asbl de la part de M. Conrad.  
+Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore x ans, reviendrait à épuiser toutes les réserves constituées antérieurement par l'asbl, en raison de sa bonne gestion et de son respect de l'audit de 2006.
+
 
