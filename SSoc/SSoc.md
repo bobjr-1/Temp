@@ -75,7 +75,7 @@ Il convient de souligner que ces réserves étaient le fruit :
 
 Enfin, les Commissaires aux comptes ont pris connaissance du compte rendu du contact mené en novembre 2013 par Mme Devleeschouwer (vice-présidente du CA) et M. Dumoulin (administrateur, membre du Bureau du CA) avec Monsieur le Directeur "*B&amp;C*" Massant à propos des montants envisageables pour assurer une budgétisation structurellement saine de l'asbl et permettre à cette dernière d'assurer de manière pérenne les missions de l'[AR du 18.04.2013](AR_20130418.pdf).
 
-> Un consensus avait alors été obtenu sur un budget de fonctionnement (= hors assurance hospitalisation) de l'ordre de 75.000 &euro; / 90.000 &euro; / 95.000 &euro; selon le nombre d'assistants sociaux mobilisables et létablissement (ou non) de synergies avec *Prorest* pour les opérations de *Catering*.
+> Un consensus avait alors été obtenu sur un budget de fonctionnement (= hors assurance hospitalisation) de l'ordre de 75.000 &euro; / 90.000 &euro; / 95.000 &euro; selon le nombre d'assistants sociaux mobilisables et la concrétisation (ou non) de synergies avec *Prorest* pour réduire les doubles emplois dans les opérations de *Catering*.
 
 ## Recommandations des Commissaires aux comptes
 
@@ -83,11 +83,21 @@ Mesdames et Messieurs les membres effectifs,
 
 Arrivés au terme de la mission leur confiée par votre Assemblée Générale du 26.05.2016 et de leurs constatations à propos des budget, comptes, extraits financiers et justificatifs (factures, bons de commande, ordres de virement), les Commissaires aux comptes De Neve, Dumoulin et Verdin recommandent à votre Assemblée Générale statutaire 2017 de conclure :
 
-* à l'approbation des comptes de l'exercice 2016 (01.01.2016-31.12.2016)  
+* à l'approbation des comptes de l'exercice 2016 (01.01.2016-31.12.2016) ;  
 * à l'approbation du bilan présenté par le conseil d'administration à la date du 31.12.2016 ;  
 * à l'octroi de la décharge au conseil d'administration pour sa gestion de l'année 2016 ;  
-* à donner mandat au conseil d'administration de solliciter de l'Autorité un subside permettant <u>structurellement</u> de faire face aux missions qui ont été dévolues à l'asbl par l'[AR du 18.04.2013](AR_20130418.pdf) ;  
-* à saisir pour ce faire le Comité de Secteur IV avec pour position commune aux délégations représentant les intérêts des travailleurs du SPF &Eacute;conomie un niveau de subside <u>structurel</u> de 2xx.000 &euro ; il va de soi que ce montant pourra, <u>conjoncturellement</u>, fluctuer en raison de l'évolution du coût de la vie, de la pyramide d'âge du personnel, etc.
+* à donner mandat au conseil d'administration de solliciter de l'Autorité un montant de subside permettant <u>structurellement</u> de faire face aux missions qui ont été dévolues à l'asbl par l'[AR du 18.04.2013](AR_20130418.pdf) ;  
+* à inviter les membres des délégations représentant les intérêts des travailleurs du SPF &Eacute;conomie à saisir pour ce faire le Comité de Secteur IV avec pour position commune un niveau de subside <u>structurel</u> de <mark>2xx.000 &euro;</mark> ; il va de soi que ce montant pourra, <u>conjoncturellement</u>, fluctuer autour de la valeur-pivot en question, en raison, par exemple, de l'évolution du coût de la vie, de celle de la pyramide d'âge du personnel, etc.
 
 Les Commissaires aux comptes sont à votre disposition pour répondre à vos questions et sollicitent décharge.
 
+Ils vous présentent, Mesdames et Messieurs les membres effectifs, leurs saluées dévouées. 
+
+<table>
+<tr>
+<td>Kim DE NEVE</td><td>Robert DUMOULIN</td><td>Julien VERDIN</td>
+</tr>
+<tr>
+<td>&nbsp;<br>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+</tr>
+</table>
