@@ -1,5 +1,3 @@
-[**TEST**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html)
-
 ## Projet de déclaration "Service Social"
 
 Les commissaires aux comptes ont été avertis le 9 mars 2017 que la comptable avait vérifié les comptes 2016 et qu'ils pouvaient par conséquent en effectuer la vérification. Rendez-vous a été pris en ce sens pour le 23 mars 2017 avec Monsieur Conrad.
@@ -34,4 +32,11 @@ La question principale qui a été posée lors de l'Assemblée Générale du xx.
 
 > **Combien de temps pense-t-on encore vivre sur fonds propres ?**
 
-Il convient de souligner que cette question portait sur la discussion d'un <font color="red">[**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf)</font>
+Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="red">1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</font>.
+
+Le total de cette rubrique, selon ce document, était de 264.750 &euro;.
+
+Les Commissaires aux comptes ont retracé l'évolution de cette rubrique depuis ...
+
+[**TEST**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html)
+
