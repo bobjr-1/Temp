@@ -94,10 +94,10 @@ Les Commissaires aux comptes sont à votre disposition pour répondre à vos que
 Ils vous présentent, Mesdames et Messieurs les membres effectifs, leurs saluées dévouées. 
 
 <table>
-<tr>
-<td>Kim DE NEVE</td><td>Robert DUMOULIN</td><td>Julien VERDIN</td>
+<tr align="center">
+<td width="150px"><b>Kim DE NEVE</b></td><td width="150px"><b>Robert DUMOULIN</b></td><td width="150px"><b>Julien VERDIN</b></td>
 </tr>
 <tr>
-<td>&nbsp;<br>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+<td>&nbsp;<br>&nbsp;<br>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 </tr>
 </table>
