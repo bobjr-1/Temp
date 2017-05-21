@@ -15,7 +15,7 @@ document d’approbation des comptes, sous réserve :
 * de remarques ultérieures éventuelles à propos de la documentation mise à leur disposition ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
 * du résultat éventuel d'échanges de vues menés entre commissaires aux comptes, puis avec Monsieur Renard, président du conseil d'administration.  
 
-L'entrevue avec ce dernier a, en l'occurrence, eu lieu le 22 mai 2017.
+L'entrevue avec ce dernier a, en l'occurrence, eu lieu le [22] mai 2017.
 
 ## Soutenabilité
 
