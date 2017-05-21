@@ -91,7 +91,7 @@ Arrivés au terme de la mission leur confiée par votre Assemblée Générale du
 
 Les Commissaires aux comptes sont à votre disposition pour répondre à vos questions et sollicitent décharge.
 
-Ils vous présentent, Mesdames et Messieurs les membres effectifs, leurs saluées dévouées. 
+Ils vous présentent, Mesdames et Messieurs les membres effectifs, leurs salutations et sentiments dévoués. 
 
 <table>
 <tr align="center">
