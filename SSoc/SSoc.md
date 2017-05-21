@@ -12,7 +12,7 @@ Le contrôle par sondage des factures (achats sociaux, prêts sociaux, réceptio
 En conséquence, les commissaires aux comptes ont signé un 
 document d’approbation des comptes, sous réserve :
 
-* de remarques ultérieureséventuelles à propos de la documentation mise à leur disposition ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
+* de remarques ultérieures éventuelles à propos de la documentation mise à leur disposition ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
 * du résultat éventuel d'échanges de vues menés entre commissaires aux comptes, puis avec Monsieur Renard, président du conseil d'administration.  
 
 L'entrevue avec ce dernier a, en l'occurrence, eu lieu le 22 mai 2017.
@@ -44,30 +44,31 @@ Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'a
 Il convient de noter que le résultat de l'exercice 2014 (constaté lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + 7.470,82 &euro;
 
 
-La question principale qui a dès lors été soumise <font color="#aa0000"><b><u>pour avis</u></b></font> à l'attention <font color="#aa0000"><b><u>des commissaires aux comptes</u></b></font> dès l'Assemblée Générale du 26.05.2016 a été formulée par Madame Parys, membre effectif sous le point 4. de son ordre du jour.
+La question principale qui a dès lors été soumise <font color="#aa0000"><b><u>pour avis</u></b></font> à l'attention <font color="#aa0000"><b><u>des commissaires aux comptes</u></b></font> dès l'Assemblée Générale du 26.05.2016 a été formulée par Madame Parys, membre effectif, sous le point 4. de son ordre du jour.
 
-> *"**Combien de temps pense-t-on encore vivre sur fonds propres ?**"*
+> *"**Combien de temps pense-t-on encore <mark>vivre sur fonds propres</mark> ?**"*
 
 Il convient de souligner que cette question portait sur la discussion d'un [**document de séance**](AG_2016_Budget_Question_FParys.pdf) dont le titre de la première rubrique était : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
 
-Le total de cette rubrique, selon ce document, était de 264.750 &euro;  
-Le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était par contre que de 195.000 &euro;
+<u>&Agrave; noter :</u>  
+Le total de cette rubrique, selon ce document, était de 264.750 &euro; ;  
+le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était par contre que de 195.000 &euro;
 
-Les Commissaires aux comptes ont retracé, à l'aide de la documentation mise à disposition, l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants des `subsides réellement accordés par l'Autorité`, afin d'établir les part respectives :
+Les Commissaires aux comptes ont retracé, à l'aide de la documentation mise à disposition, l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants des `subsides réellement accordés par l'Autorité`, ce, afin d'établir les part respectives :
 
-* du fonctionnement sur subside destinés à la réalisation *via* l'asbl des [**missions sociales de l'employeur** prévues par l'AR du 18.04.2013](AR_20130418.pdf) ;  
-* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ, fonds affectés, résultats reportés, provisions), suite à l'insuffisance de couverture des missions déléguées par voie de subside.
+* du fonctionnement sur subside destinés à la réalisation *via* l'asbl des [**missions sociales de l'employeur**](AR_20130418.pdf) définies par l'AR du 18.04.2013 ;  
+* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ + fonds affectés + résultats reportés + provisions), en raison de l'insuffisance de couverture par le subside de l amise en &oelig;uvre par le conseil d'administration et le personnel détaché des missions déléguées.
 
 ![](subside.png)  
 ( vue sur le [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
 
-&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu une projection sur 5 ans des finances de l'asbl de la part de M. Conrad.  
+&Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu de la part de M. Conrad sa projection (calculée à un horizon de cinq années) des finances de l'asbl.  
 Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore 3 ans, reviendrait à épuiser toutes les réserves constituées antérieurement par l'asbl.
 
-Il convient de souligner que ces réserves étaient dues :
+Il convient de souligner que ces réserves étaient le fruit :
 
-* à la bonne gestion : comptes approuvés par l'AG et par le Ministre depuis 2009 ;  
-* au respect scrupuleux de l'[**audit de 2006**]() du SPF &Eacute;conomie, sous la direction de Mme Soetens et de M. Van Vaerenbergh.
+* de la bonne gestion : comptes approuvés par l'AG et par le Ministre depuis 2009 ;  
+* du respect scrupuleux de l'[**audit de 2006**](Audit_SSoc_2006.pdf) du SPF &Eacute;conomie, sous la direction de Mme Soetens et de M. Van Vaerenbergh.
 
 > En particulier, cet audit notait que des réformes étaient nécessaires, dans la mesure où les comptes n'avaient pas été approuvés de 2003 à 2008 inclus.  
 > Quant à l'arrêté royal de 2013, il rappelait que les "*dépenses afférentes à la mise à disposition de i'ASBL des **moyens matériels nécessaires** sont **à charge du budget du SPF**.*" (art. 9) et qu'il appartenait à l'assemblée générale de demander au conseil d'administration de lui présenter un rapport d'activité et un budget (art. 6 pt. 8°) de nature à assurer toutes les missions déléguées.
