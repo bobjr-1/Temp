@@ -12,10 +12,10 @@ Le contrôle par sondage des factures (achats sociaux, prêts sociaux, réceptio
 En conséquence, les commissaires aux comptes ont signé un 
 document d’approbation des comptes, sous réserve :
 
-* de toute remarque ultérieure ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
-* d'échanges de vues menés entre commissaires aux comptes, puis avec Monsieur Renard, président du conseil d'administration.  
+* de remarques ultérieureséventuelles à propos de la documentation mise à leur disposition ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
+* du résultat éventuel d'échanges de vues menés entre commissaires aux comptes, puis avec Monsieur Renard, président du conseil d'administration.  
 
-L'entrevue avec ce dernier a eu lieu le 22 mai 2017.
+L'entrevue avec ce dernier a, en l'occurrence, eu lieu le 22 mai 2017.
 
 ## Soutenabilité
 
@@ -44,22 +44,22 @@ Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'a
 Il convient de noter que le résultat de l'exercice 2014 (constaté lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + 7.470,82 &euro;
 
 
-La question principale qui a dès lors été soumise <font color="#aa0000"><b><u>pour avis</u></b></font> à l'attention <font color="#aa0000"><b><u>des commissaires aux comptes</u></b></font> dès l'Assemblée Générale du 26.05.2016 a été formulée par Madame Parys, membre effectif.
+La question principale qui a dès lors été soumise <font color="#aa0000"><b><u>pour avis</u></b></font> à l'attention <font color="#aa0000"><b><u>des commissaires aux comptes</u></b></font> dès l'Assemblée Générale du 26.05.2016 a été formulée par Madame Parys, membre effectif sous le point 4. de son ordre du jour.
 
 > *"**Combien de temps pense-t-on encore vivre sur fonds propres ?**"*
 
-Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
+Il convient de souligner que cette question portait sur la discussion d'un [**document de séance**](AG_2016_Budget_Question_FParys.pdf) dont le titre de la première rubrique était : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
 
 Le total de cette rubrique, selon ce document, était de 264.750 &euro;  
 Le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était par contre que de 195.000 &euro;
 
-Les Commissaires aux comptes ont retracé, à l'aide de la documentation mise à disposition, l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants de `subsides réellement accordés par l'Autorité`, afin d'établir les part respectives
+Les Commissaires aux comptes ont retracé, à l'aide de la documentation mise à disposition, l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants des `subsides réellement accordés par l'Autorité`, afin d'établir les part respectives :
 
-* du fonctionnement sur subside permettant de réaliser les [missions prévues par l'AR du 18.04.2013](AR_20130418.pdf) ;  
-* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ, fonds affectés, résultats reportés, provisions)
+* du fonctionnement sur subside destinés à la réalisation *via* l'asbl des [**missions sociales de l'employeur** prévues par l'AR du 18.04.2013](AR_20130418.pdf) ;  
+* du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ, fonds affectés, résultats reportés, provisions), suite à l'insuffisance de couverture des missions déléguées par voie de subside.
 
 ![](subside.png)  
-( [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
+( vue sur le [**détail des chiffres**](https://bobjr-1.github.io/Temp/SSoc/Line_TPT.html) )
 
 &Agrave; la suite de leur visite du 23.03.2017, les Commissaires aux comptes ont reçu une projection sur 5 ans des finances de l'asbl de la part de M. Conrad.  
 Ils l'ont examinée et pris en compte pour estimer qu'un tel manque de couverture du subside, s'il devait se prolonger encore 3 ans, reviendrait à épuiser toutes les réserves constituées antérieurement par l'asbl.
