@@ -2,8 +2,15 @@
 
 <html>
 <head>
-<title>JSCharts.js - Test - Line Graph</title>
+<title>Subside - &Eacute;volution historique</title>
 <script type="text/javascript" src="jscharts.js"></script>
+<style>
+#chartcontainer
+{
+    float: left;
+    width: 400px;
+}
+</style>
 </head>
 
 <body>
@@ -11,15 +18,34 @@
 <div id="chartcontainer">
 Lorem ipsum...
 </div>
+<div id="chartcontainer2">
+Lorem ipsum...
+</div>
 
 <script type="text/javascript">
-	var myData = new Array([10, 20], [15, 10], [20, 30], [25, 10], [30, 5]);
+	var myData1 = new Array([2008, 279], [2009, 285], [2010, 275], [2011, 322], [2012, 295], [2013, 260], [2014, 225], [2015, 215], [2016, 195], [2017, 195]);
+	var myData2 = new Array([2008, 290.9], [2009, 295.26], [2010, 322.09], [2011, 322.04], [2012, 305.26], [2013, 294.24], [2014, 260.12], [2015, 258.18], [2016, 264.75], [2017, 264.75]);
 	var myChart = new JSChart('chartcontainer', 'line');
-	myChart.setTitle("titre");
+	myChart.setTitle("Evolution du subside");
 	myChart.setTitleFontSize(20);
 	myChart.setTitleColor("#aa0000");
-	myChart.setAxisNameY("axe des Y");
-	myChart.setAxisNameX("axe des X");
+	myChart.setLineColor('#c71112');
+	myChart.setLineWidth(4);
+	myChart.setAxisNameY("");
+	myChart.setAxisNameX("");
+	myChart.setDataArray(myData1);
+	myChart.setDataArray(myData2);
+	myChart.draw();
+</script>
+
+<script type="text/javascript">
+	var myData = new Array(['2008', 11.9], ['2009', 10.26], ['2010', 47.09], ['2011', 0.04], ['2012', 10.26], ['2013', 69.24], ['2014', 45.12], ['2015', 43.18], ['2016', 69.75], ['2017', 0]);
+	var myChart = new JSChart('chartcontainer2', 'bar');
+	myChart.setTitle("Defaut de couverture");
+	myChart.setTitleFontSize(20);
+	myChart.setTitleColor("#aa0000");
+	myChart.setAxisNameY("");
+	myChart.setAxisNameX("");
 	myChart.setDataArray(myData);
 	myChart.draw();
 </script>

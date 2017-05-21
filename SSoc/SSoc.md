@@ -28,9 +28,9 @@ En avance de cette réunion, ils avaient notamment reçu le document "Bilan ASBL
 	<tr><td><b>Résultat de l'exercice</b></td><td>&nbsp;&nbsp;<b>15.507</b></td><td><b>-48.309</b></td><td>-63.816</td></tr>
 </table>
 
-La question principale qui a été posée lors de l'Assemblée Générale du xx.05.2016 a été posée par Mme Parys.
+La question principale qui a été posée lors de l'Assemblée Générale du 26.05.2016 a été posée par Mme Parys.
 
-> **Combien de temps pense-t-on encore vivre sur fonds propres ?**
+> *"**Combien de temps pense-t-on encore vivre sur fonds propres ?**"*
 
 Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="red">1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</font>.
 
