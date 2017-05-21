@@ -1,6 +1,6 @@
 ## Inscription du Syndic de l'ACP auprès de la BCE
 
-| Plan de travail |
+| **Plan de travail pour l'élaboration du projet** |
 | :--- |
 | **Point de situation** discuté lors des *Drinks* des 30.03.2017 et 18.05.2017 par les copropriétaires |
 | Transmission au Syndic par courriel à partir du 19.05.2017 |
