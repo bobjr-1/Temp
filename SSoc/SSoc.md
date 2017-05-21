@@ -13,13 +13,13 @@ En conséquence, les commissaires aux comptes ont signé un
 document d’approbation des comptes, sous réserve :
 
 * de toute remarque ultérieure ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
-* d'échanges de vues menés entre commissaires aux comptes et entre ceux-ci avec le président du conseil d'administration, M. F. Renard.  
+* d'échanges de vues menés entre commissaires aux comptes, puis avec Monsieur Renard, président du conseil d'administration.  
 
 L'entrevue avec ce dernier a eu lieu le 22 mai 2017.
 
 ## Soutenabilité
 
-En avance de cette réunion, les commissaires aux comptes avaient notamment reçu le document "Bilan ASBL schéma abrégé.pdf" ; à ce propos, ils ont constaté que le compte de résultats présente les valeurs suivantes (arrondies à l'euro le plus proche)
+En avance de leur premier contrôle, les commissaires aux comptes avaient notamment reçu de Monsieur Conrad le document `Bilan ASBL schéma abrégé.pdf` ; à ce propos, il a été constaté que, sur les deux derniers exercices comptables, le compte de résultats présente les valeurs (arrondies à l'euro le plus proche) suivantes.
 
 <table>
 	<tr><th>Compte de résultat</th><th>2015</th><th>2016</th><th>Diff.</th></tr>
@@ -44,16 +44,16 @@ Il convient de noter que la marge d'exploitation en 2014 (constatée lors de l'a
 Il convient de noter que le résultat de l'exercice 2014 (constaté lors de l'approbation des comptes 2015 par l'AG du 26.05.2016) s'élevait à + 7.470,82 &euro;
 
 
-La question principale qui a dès lors été soumise à l'attention des commissaires aux comptes lors de l'Assemblée Générale du 26.05.2016 a été posée par Mme Parys.
+La question principale qui a dès lors été soumise <font color="#aa0000"><b><u>pour avis</u></b></font> à l'attention <font color="#aa0000"><b><u>des commissaires aux comptes</u></b></font> dès l'Assemblée Générale du 26.05.2016 a été formulée par Madame Parys, membre effectif.
 
 > *"**Combien de temps pense-t-on encore vivre sur fonds propres ?**"*
 
 Il convient de souligner que cette question portait sur la discussion d'un [**document de séance dont le titre de la première rubrique était**](AG_2016_Budget_Question_FParys.pdf) : <font color="aa0000"><b>1 - Coûts estimés pour missions statutaires en partie couverts par la subvention</b></font>.
 
 Le total de cette rubrique, selon ce document, était de 264.750 &euro;  
-Le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était par contre que de 195.000 &euro
+Le subside adopté par l'AG 2016 et sollicité auprès de l'Autorité n'était par contre que de 195.000 &euro;
 
-Les Commissaires aux comptes ont retracé l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants de `subsides réellement accordés par l'Autorité`, afin d'établir les part respectives
+Les Commissaires aux comptes ont retracé, à l'aide de la documentation mise à disposition, l'évolution de la rubrique `Coûts estimés pour missions statutaires en partie couverts par la subvention` depuis 2008 en la confrontant avec les montants de `subsides réellement accordés par l'Autorité`, afin d'établir les part respectives
 
 * du fonctionnement sur subside permettant de réaliser les [missions prévues par l'AR du 18.04.2013](AR_20130418.pdf) ;  
 * du fonctionnement sur fonds propres de l'asbl (= patrimoine de départ, fonds affectés, résultats reportés, provisions)
