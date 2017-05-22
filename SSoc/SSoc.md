@@ -15,7 +15,7 @@ document d’approbation des comptes, sous réserve :
 * de remarques ultérieures éventuelles à propos de la documentation mise à leur disposition ; celles-ci sont reflétées sous la rubrique "<font color="aa0000"><b>Soutenabilité</b></font>" ci-dessous ;  
 * du résultat éventuel d'échanges de vues menés entre commissaires aux comptes, puis avec Monsieur Renard, président du conseil d'administration.  
 
-L'entrevue avec ce dernier a, en l'occurrence, eu lieu le [22] mai 2017.
+L'entrevue avec ce dernier a, en l'occurrence, eu lieu le 22 mai 2017.
 
 ## Soutenabilité
 
@@ -87,7 +87,7 @@ Arrivés au terme de la mission leur confiée par votre Assemblée Générale du
 * à l'approbation du bilan présenté par le conseil d'administration à la date du 31.12.2016 ;  
 * à l'octroi de la décharge au conseil d'administration pour sa gestion de l'année 2016 ;  
 * à donner mandat au conseil d'administration de solliciter de l'Autorité un montant de subside permettant <u>structurellement</u> de faire face aux missions qui ont été dévolues à l'asbl par l'[AR du 18.04.2013](AR_20130418.pdf) ;  
-* à inviter les membres des délégations représentant les intérêts des travailleurs du SPF &Eacute;conomie à saisir pour ce faire le Comité de Secteur IV avec pour position commune un niveau de subside <u>structurel</u> de <mark>&nbsp;2xx.000 &euro;&nbsp;</mark> ; il va de soi que ce montant pourra, <u>conjoncturellement</u>, fluctuer autour de la valeur-pivot en question, en raison, par exemple, de l'évolution du coût de la vie, de celle de la pyramide d'âge du personnel, etc.
+* à inviter les membres des délégations représentant les intérêts des travailleurs du SPF &Eacute;conomie à saisir pour ce faire le Comité de Secteur IV avec pour position commune un niveau de subside <u>structurel</u> de <mark>&nbsp;240.000 &euro;&nbsp;</mark> ; il va de soi que ce montant pourra, <u>conjoncturellement</u>, fluctuer autour de la valeur-pivot en question, en raison, par exemple, de l'évolution du coût de la vie, de celle de la pyramide d'âge du personnel, etc.
 
 Les Commissaires aux comptes sont à votre disposition pour répondre à vos questions et sollicitent décharge.
 
