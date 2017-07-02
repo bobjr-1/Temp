@@ -4,7 +4,8 @@
 
 ## Ancienneté
 
-![](Anciennete.png)
+![](Anciennete.png)  
+<u>de g. à dr. :</u> ancienneté de grade - ancienneté de service - date de naissance
 
 ### Antécédents
 
