@@ -2,9 +2,13 @@
 
 ![](Decoration.jpg "Cérémonie du 14.03.2017")
 
+## Ancienneté
+
+![](Anciennete.png)
+
 ### Antécédents
 
-* [**03.09.2009**](Werking_Contactcenter_20090903.pdf) - Proposition d'un horaire destiné à <u><b>attirer</b></u> le personnel<br>Focus sur la [**raison d'être**](Adaptation_Horaire.md) de la proposition
+* [**03.09.2009**](Werking_Contactcenter_20090903.pdf) - Proposition d'un horaire destiné à **<u>attirer</u>** le personnel<br>Focus sur la [**raison d'être**](Adaptation_Horaire.md) de la proposition
 
 ### Réunions de service
 
