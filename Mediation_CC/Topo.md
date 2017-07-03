@@ -15,8 +15,8 @@
 ### Respect des valeurs
 
 * **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. 
-* **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png) : [**Documents insérés**](Valeurs.md) à la demande de B. Dupont
-* **Habitudes de la clientèle** : fréquentations en temps réel du site au [**07.06.2017**](https://bobjr-1.github.io/Temp/Mediation_CC/Frequentations_20170607.html)
+* **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png) - [**Documents insérés**](Valeurs.md) à la demande de B. Dupont.
+* **Habitudes de la clientèle** : fréquentations en temps réel du site au [**07.06.2017**](https://bobjr-1.github.io/Temp/Mediation_CC/Frequentations_20170607.html).
 
 ### Réunions de service
 

@@ -12,4 +12,7 @@
 | Article 21 de l'AR du 24.09.2013 relatif à l'évaluation |
 | --- |
 | ![](Art_21_KB_Eval.png) |
+| **18.03.2016** |
+| ![](Mail_TDalemans_20160318.png) |
+
 
