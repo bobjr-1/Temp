@@ -11,6 +11,10 @@
 
 * [**03.09.2009**](Werking_Contactcenter_20090903.pdf) - Proposition d'un horaire destiné à **<u>attirer</u>** le personnel<br>Focus sur la [**raison d'être**](Adaptation_Horaire.md) de la proposition
 
+### Respect des valeurs
+
+* **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. 
+
 ### Réunions de service
 
 > **<u>NB :</u>** l'accès à ces réunions est limité à **1 personne** pour le *Contact Center*.
