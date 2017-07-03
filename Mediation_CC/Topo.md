@@ -9,7 +9,8 @@
 
 ### Antécédents
 
-* [**03.09.2009**](Werking_Contactcenter_20090903.pdf) - Proposition d'un horaire destiné à **<u>attirer</u>** le personnel<br>Focus sur la [**raison d'être**](Adaptation_Horaire.md) de la proposition
+* * [**03.09.2009**](Werking_Contactcenter_20090903.pdf) - Proposition d'un horaire destiné à **<u>attirer</u>** le personnel<br>Focus sur la [**raison d'être**](Adaptation_Horaire.md) de la proposition
+* L'analyse de risques du [**16.09.2010**](Risicoanalyse_20100910.pdf) met en évidence : "*<u>CONFORMITEIT</u> de agenten cc beschikken over een zekere vrijheid bij de vooral telefonische dienstverlening.*"
 
 ### Respect des valeurs
 
