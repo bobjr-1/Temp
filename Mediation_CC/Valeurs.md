@@ -11,5 +11,5 @@
 
 | Article 21 de l'AR du 24.09.2013 relatif à l'évaluation |
 | --- |
-| ![](art_21_KB_Eval.png) |
+| ![](Art_21_KB_Eval.png) |
 
