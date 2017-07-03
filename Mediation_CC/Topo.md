@@ -16,4 +16,5 @@
 > **<u>NB :</u>** l'accès à ces réunions est limité à **1 personne** pour le *Contact Center*.
 
 * Réunions pendant l'[**exercice d'évaluation 2016**](RS_2016.md)
+* Réunions pendant l'[**exercice d'évaluation 2017**](RS_2017.md)
 
