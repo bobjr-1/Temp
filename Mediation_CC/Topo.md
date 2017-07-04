@@ -30,7 +30,7 @@
 
 > **<u>NB :</u>** l'accès à ces réunions est limité à **1 personne** pour le *Contact Center*.
 
-* Tentative de coup de force auprès de Mme De Pauw - Staff S4 du [**17.02.2015**](20150217.png)
+* Tentative de coup de force auprès de Mme De Pauw - Staff S4 du [**17.02.2015**](20150215.png)
 * Réunions pendant l'[**exercice d'évaluation 2016**](RS_2016.md)
 * Réunions pendant l'[**exercice d'évaluation 2017**](RS_2017.md)
 
