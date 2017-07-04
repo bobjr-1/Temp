@@ -14,8 +14,9 @@
 
 ### Respect des valeurs et des règles impératives
 
+* <font color="red"><b>Les (eventuels) abus <i>XTremis</i> relèvent du disciplinaire</b></font> - et non de l'évaluation - voir [art. 1.5.2 de l'Annexe 1]() du Règlement de Travail<br>![](Sanctions.png)<br>&nbsp;
 * **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. - Diverses [**menaces**](Menaces.md) et/ou tentatives d'intimidation ont été faites contre l'évalué 
-* **Risques psycho-sociaux** : l'évalué a sensibilisé son évaluateur et Mme De Pauw surles risques de *burn-out* lors d'une réunion le 26.05.2016 - Il lui semblait qu'il en avait été tenu acte le [**15.07.2016**](Mail_TDalemans_201607015.png)
+* **Risques psycho-sociaux** : l'évalué a sensibilisé son évaluateur et Mme De Pauw surles risques de *burn-out* lors d'une réunion le 26.05.2016 - Il lui semblait qu'il en avait été tenu acte le [**15.07.2016**](Mail_TDalemans_20160715.png)
 * **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png)
 * **Objectifs SMART** : où &lt;**A**&gt; = [Acceptable](SMART.md) dans les conditions définies par la "Brochure du SPF P&O pour les collaborateurs"
 * **Habitudes de la clientèle** : fréquentations en temps réel du site au [**07.06.2017**](https://bobjr-1.github.io/Temp/Mediation_CC/Frequentations_20170607.html).
