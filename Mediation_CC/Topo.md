@@ -37,5 +37,5 @@
 ## Comparaison des deux positions
 
 * pour le cycle 2016 : l'évalué a obtenu la mention "Répond aux attentes" à l'occasion de l'entretien d'évaluation du 05.02.2017 ; aucun entretien de fonctionnement n'avait remis en cause la déclaration *Crescendo* de l'évalué<br>![](principe_2016.png)<br>&nbsp;
-* [**pour le cycle 2017**](Positions_2017.md) - Le [**fondement**](Zoom.md) des propositions de compromis soumis par l'évalué le 02.06.2017
+* [**pour le cycle 2017**](Positions_2017.md) : le [**fondement**](Zoom.md) des propositions de compromis soumis par l'évalué le 02.06.2017 se base sur la possibilité pour la hiérarchie, comme pour les agents et/ou leur organisation syndicale de solliciter une interprétation dans les cas limites non prévus par le Règlement de Travail que soulèverait un entretien de fonctionnement.
 
