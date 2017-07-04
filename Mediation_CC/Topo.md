@@ -15,6 +15,7 @@
 ### Respect des valeurs et des règles impératives
 
 * **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. - Diverses [**menaces**](Menaces.md) et/ou tentatives d'intimidation ont été faites contre l'évalué 
+* **Risques psycho-sociaux** : l'évalué a sensibilisé son évaluateur et Mme De Pauw surles risques de *burn-out* lors d'une réunion le 26.05.2016 - Il lui semblait qu'il en avait été tenu acte le [**15.07.2016**](Mail_TDalemans_201607015.png)
 * **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png)
 * **Objectifs SMART** : où &lt;**A**&gt; = [Acceptable](SMART.md) dans les conditions définies par la "Brochure du SPF P&O pour les collaborateurs"
 * **Habitudes de la clientèle** : fréquentations en temps réel du site au [**07.06.2017**](https://bobjr-1.github.io/Temp/Mediation_CC/Frequentations_20170607.html).
@@ -24,6 +25,7 @@
 
 > **<u>NB :</u>** l'accès à ces réunions est limité à **1 personne** pour le *Contact Center*.
 
+* Tentative de coup de force auprès de Mme De Pauw - Staff S4 du [**17.02.2015**](20150217.png)
 * Réunions pendant l'[**exercice d'évaluation 2016**](RS_2016.md)
 * Réunions pendant l'[**exercice d'évaluation 2017**](RS_2017.md)
 
