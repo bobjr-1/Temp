@@ -1,4 +1,4 @@
-## Quelle est la "prestation théorique" 
+## Quelle est la "prestation théorique" ?
 
 > **Annexe 1 du Règlement de travail :**  
 > *2.2.4. <u>Insuffisance d’heures</u> L'insuffisance (débit) de prestations cumulées en fin de mois ne pourra être supérieure à 12 heures par rapport à la <u><b>prestation théorique</b></u>. On ne peut pas être continuellement en débit d’heures. Tout débit doit être compensé endéans un délai de deux mois.*
