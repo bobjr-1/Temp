@@ -14,8 +14,9 @@
 
 ### Respect des valeurs et des règles impératives
 
-* **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. 
-* **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png) - [**Documents insérés**](Valeurs.md) à la demande de B. Dupont.
+* **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. - Diverses [**menaces**](Menaces.md) et/ou tentatives d'intimidation ont été faites contre l'évalué 
+* **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png)
+* **Objectifs SMART** : où &lt;**A**&gt; = [Acceptable](SMART.md) dans les conditions définies par la "Brochure du SPF P&O pour les collaborateurs"
 * **Habitudes de la clientèle** : fréquentations en temps réel du site au [**07.06.2017**](https://bobjr-1.github.io/Temp/Mediation_CC/Frequentations_20170607.html).
 * **Respect du Point 2.2.4 de l'Annexe 1 du Règlement de Travail** : celui-ci est d'aplication pour tous les agents, qu'ils bénéficient (ou non) de l'horaire flexible ou d'un régime particulier, prévoit : "*2.2.4. <u>Insuffisance d’heures</u> L'insuffisance (débit) de prestations cumulées en fin de mois ne pourra être supérieure à 12 heures par rapport à la [**prestation théorique**](Prestation_theorique.md). On ne peut pas être continuellement en débit d’heures. Tout débit doit être compensé endéans un délai de deux mois.*"
 
