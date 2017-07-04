@@ -13,6 +13,6 @@
 | --- |
 | ![](Art_21_KB_Eval.png) |
 | **18.03.2016** |
-| ![](Mail_TDalemans_20160318.png) |
+| ![](Mail_TDalemans_20160318.PNG) |
 
 

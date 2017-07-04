@@ -25,3 +25,8 @@
 * Réunions pendant l'[**exercice d'évaluation 2016**](RS_2016.md)
 * Réunions pendant l'[**exercice d'évaluation 2017**](RS_2017.md)
 
+## Comparaison des deux positions
+
+* pour le cycle 2016
+* [**pour le cycle 2017**](Positions_2017.md)
+
