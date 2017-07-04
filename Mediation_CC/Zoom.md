@@ -1,9 +1,6 @@
 ## Zoom sur la proposition de l'évalué
 
-![](Proposition_Dupont.png)
 ![](Zoom.png)
-
-### [Zoom](Zoom.png)
 
 ### Que dit le Point 1.5.3. de l'Annexe 1 du Règlement de Travail ?
 
