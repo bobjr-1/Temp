@@ -7,6 +7,8 @@
 | ![](Mail_TDalemans_20160523.png) |
 | **Courriel de M. Dalemans du 07.06.2017** |
 | ![](Mail_TDalemans_20170607.png) |
+| **Courriel de M. Dalemans du 19.06.2017** |
+| ![](Mail_TDalemans_20170619.png) |
 
 
 
