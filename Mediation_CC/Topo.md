@@ -16,13 +16,14 @@
 
 * <font color="red"><b>Les (eventuels) abus <i>XTremis</i> relèvent du disciplinaire</b></font> - et non de l'évaluation - voir art. 1.5.2 de l'Annexe 1 du Règlement de Travail<br>![](Sanctions.png)<br>&nbsp;
 * **Respect** : [Circulaire n°573](Valeurs.md) du 17.08.2007 relative au cadre déontologique des agents de la fonction publique administrative fédérale. - Diverses [**menaces**](Menaces.md) et/ou tentatives d'intimidation ont été faites contre l'évalué 
-* **Risques psycho-sociaux** : l'évalué a sensibilisé son évaluateur et Mme De Pauw surles risques de *burn-out* lors d'une réunion le 26.05.2016 - Il lui semblait qu'il en avait été tenu acte le [**15.07.2016**](Mail_TDalemans_20160715.png)
+* **Risques psycho-sociaux** : l'évalué a sensibilisé son évaluateur et Mme De Pauw sur ses risques de *burn-out* lors d'une réunion le 26.05.2016 - Il lui semblait qu'il en avait été tenu acte le [**15.07.2016**](Mail_TDalemans_20160715.png)
 * **Dossier d'évaluation** :  des documents peuvent être insérés par l'évalué en vertu de l'[art. 21 de l'AR &Eacute;valuation](Art_21_KB_Eval.png)
 * **Objectifs SMART** : où &lt;**A**&gt; = [Acceptable](SMART.md) dans les conditions définies par la "Brochure du SPF P&O pour les collaborateurs"
-* **Habitudes de la clientèle** :
+* **Habitudes de la clientèle** : en pratique, les clients ne créent <font color="red">aucune pression</font> sur le Contact Center
     * **1.** Fréquentations en temps réel du site au [**07.06.2017**](https://bobjr-1.github.io/Temp/Mediation_CC/Frequentations_20170607.html)
     * **2.** Sur chaque page du site figure un formulaire par lequel les questions peuvent être posées en ligne<br>![](screen.png)Cet *iframe*  a été créé et mis en ligne le [**05.02.2013**](iFrame.png)<br>&nbsp; 
-* **Respect du Point 2.2.4 de l'Annexe 1 du Règlement de Travail** : celui-ci est d'aplication pour tous les agents, qu'ils bénéficient (ou non) de l'horaire flexible ou d'un régime particulier, prévoit : "*2.2.4. <u>Insuffisance d’heures</u> L'insuffisance (débit) de prestations cumulées en fin de mois ne pourra être supérieure à 12 heures par rapport à la [**prestation théorique**](Prestation_theorique.md). On ne peut pas être continuellement en débit d’heures. Tout débit doit être compensé endéans un délai de deux mois.*"
+* **Respect du Point 2.2.4 de l'Annexe 1 du Règlement de Travail** : celui-ci est d'aplication pour tous les agents, qu'ils bénéficient (ou non) de l'horaire flexible ou d'un régime particulier, prévoit : "*2.2.4. <u>Insuffisance d’heures</u> L'insuffisance (débit) de prestations cumulées en fin de mois ne pourra être supérieure à 12 heures par rapport à la [**prestation théorique**](Prestation_theorique.md). On ne peut pas être continuellement en débit d’heures. Tout débit doit être compensé endéans un délai de deux mois.*" - <font color="red"><b>Depuis 1983 et <i>a fortiori</i> <u>depuis janvier 2012</u>, Monsieur Dupont n'a jamais été en déficit de 12h</b></font> par rapport à ses prestations théoriques
+* **Motivation** : Monsieur Dupont travaillait jusqu'en décembre 2011 à l'*Infoshop* (S4) - il <font color="red"><b>s'était porté volontaire pour travailler au <i>Contact Center</i></b></font>
 
 ### Réunions de service
 
