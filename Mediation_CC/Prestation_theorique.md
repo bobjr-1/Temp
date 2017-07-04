@@ -20,19 +20,19 @@
 ### Pour les agents bénéficiant du Contact Center
 
 * pendant deux jours :  7 h 15 par jour (de 8 h 45 à 16 h 00)
-* 1 h 00 de pause méridienne fixe
-* soit **6 h 15 de présence**
-
-* pendant deux jours :  8 h 15 par jour (de 8 h 45 à 17 h 00)
-* 1 h 00 de pause méridienne fixe
+* est incluse dans cette période 1 h 00 de pause méridienne
 * soit **7 h 15 de présence**
 
-En moyenne, la <font color="red">présence théorique</font> est de **6 h 45 de présence**
+* pendant deux jours :  8 h 15 par jour (de 8 h 45 à 17 h 00)
+* est incluse dans cette période 1 h 00 de pause méridienne
+* soit **8 h 15 de présence**
+
+En moyenne, la <font color="red">présence théorique</font> est de **7 h 45 de présence**
 
 <p>
 <table border="1">
 <tr>
-<td>les relevés <i>XTremis</i> montreraient une insuffisance d'heures si celle-ci était de 12h par rapport à 6h45 de présence journalière</td>
+<td>les relevés <i>XTremis</i> montreraient une insuffisance d'heures si celle-ci était de 12h par rapport à 7h45 de présence journalière</td>
 </tr>
 </table>
 </p>
