@@ -4,6 +4,8 @@
 
 Une [étude][1] consacrée aux faillites est parue le 25.08.2017 dans le numéro 13 de la revue "*Carrefour de l'&Eacute;conomie*".
 
+<iframe title="Test" src="http://economie.fgov.be/fr/binaries/Carrefour_economie_2017_13_tcm326-284157.pdf" width="600px" height="400px"></iframe>
+
 > La couverture du numéro 13 de *Carrefour de l'&Eacute;conomie* illustre cette étude.  
 > L'étude en elle-même va de la page 16 à la page 28 (**13 pages**)  
 > Elle est suivie d'une page de bibliographie (page 29) et de trois pages de notes explicatives (pages 30 à 32)
