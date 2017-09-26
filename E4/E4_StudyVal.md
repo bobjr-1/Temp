@@ -5,6 +5,7 @@
 | [Télécharger](http://economie.fgov.be/fr/binaries/Carrefour_economie_2017_13_tcm326-284157.pdf) cette étude |
 | :--- |
 | le [**manque de visibilité**](current_view.md) actuel de cette étude |
-| les faillites : [**série historique**](Line.md) |
+
+
 
 
