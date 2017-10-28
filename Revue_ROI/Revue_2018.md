@@ -47,7 +47,7 @@ cela signifie aussi que, **même si l'AG devait voter une telle interdiction**, 
 
 2. Le ROI est **modifiable s'il est admis que les conditions de vie en commun se sont modifiées** ; et comme le ROI n'est pas un texte "notarié", il est possible de le modifier :
     *  si de nouvelles situations apparaissent : par exemple, la construction au début du siècle d'un lieu de culte dans le voisinage ; ou 
-    * si certains problèmes ne se posent plus du tout, ou plus dans les mêmes termes : par exemple, un [avis des pompiers](Avis_voie_carrossable.pdf) à éteint les débats infinis sur l'usage de la voie carrossable.
+    * si certains problèmes ne se posent plus du tout, ou plus dans les mêmes termes : par exemple, un [avis des pompiers](Avis_voie_carrossable.pdf) a éteint les débats infinis sur l'usage de la voie carrossable.
 
 3. Comme le mandat du Syndic se limite à faire respecter les règles de vie, **le Syndic ne peut pas formuler de propositions de modifications du ROI** à l'Assemblée Générale ; c'est une saine application du principe de séparation des pouvoirs entre l'Exécutif (syndic) et le Législatif (AG).
 
