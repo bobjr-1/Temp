@@ -7,3 +7,5 @@
 Elle est `théoriquement` en possession de tous les occupants.
 
 En pratique, cependant, il n'est pas certain du tout que les nouveaux arrivants reçoivent la version consolidée (2014) du ROI.
+
+* Consultez le [**ROI applicable depuis 2014**](ROI_2014.pdf)
