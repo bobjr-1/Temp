@@ -1,20 +1,18 @@
 # Vers une mise à jour du ROI ?
 
-Au cours des *Drinks* qui nous séparent de l'Assemblée Générale statutaire de (en principe : première quinzaine de mars) 2018, et pour la première fois lors du *Drink* du 26.10.2017, il est proposé de réfléchir sereinement aux règles de vie commune de l'immeuble.
-
-## Les articles soumis à révision
-
-Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les articles sur lesquels nous nous serons mis d'accord.  
-&Eacute;ventuellement, nous pourrions "créer" de nouveaux articles, si de nos *Drinks* ressort l'impression qu'un problème (une situation de vie) ou l'autre n'a jamais été "réglementé" depuis soixante ans par le ROI.
-
-----
-
+![](Sondage.png)
 ### [**Répondez au sondage**](https://goo.gl/forms/fIdhrp0iJgdRNojq2) 
 
 Le sondage est <mark><b>&nbsp;ouvert&nbsp;</b></mark>&nbsp;jusqu'au dernier *Drink* avant l'AG de 2018<br><font color="#8b0000"><b>&nabla;</b></font> vous pouvez **sans limites** modifier vos réponses<br><font color="#8b0000"><b>&nabla;</b></font> vous pouvez **sans limites** ajouter vos suggestions<br>&nbsp;
 
 ---
 
+Au cours des *Drinks* qui nous séparent de l'Assemblée Générale statutaire de (en principe : première quinzaine de mars) 2018, et pour la première fois lors du *Drink* du 26.10.2017, il est proposé de réfléchir sereinement aux règles de vie commune de l'immeuble.
+
+## Les articles soumis à révision
+
+Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les articles sur lesquels nous nous serons mis d'accord.  
+&Eacute;ventuellement, nous pourrions "créer" de nouveaux articles, si de nos *Drinks* ressort l'impression qu'un problème (une situation de vie) ou l'autre n'a jamais été "réglementé" depuis soixante ans par le ROI.
 
 * [**Sources d'inspiration**](Sources.md) - sont recensés ici d'autres ROI découverts sur le web, ainsi que des ROI applicables aux locataires sociaux
 * Les sujets évoqués lors des [**Drinks du printemps 2017**]() <font color="orange">ce lien n'est pas encore activé</font>
