@@ -45,7 +45,7 @@ cela signifie qu'on ne pouvait pas faire enlever par la police une voiture qui s
 > DISPOSITION INENVISAGEABLE &Agrave; L'AVENIR :  
 cela signifie aussi que, **même si l'AG devait voter une telle interdiction**, on ne pourrait pas interdire le dépôt de messages publicitaires dans toutes les boîtes ; les tiers ne sont en effet pas censés "obéir" au ROI de la Brabançonne ...
 
-2. Le ROI est **modifiable s'il est admis que les conditions de vie en commun se sont modifiées** ; et comme le ROI n'est pas un texte "notarié", il est possible de le modifier :
+2. Le ROI est **modifiable s'il est admis que les conditions de vie en commun sont évolué** ; et comme le ROI n'est pas un texte "notarié", il est possible de le modifier :
     *  si de nouvelles situations apparaissent : par exemple, la construction au début du siècle d'un lieu de culte dans le voisinage ; ou 
     * si certains problèmes ne se posent plus du tout, ou plus dans les mêmes termes : par exemple, un [avis des pompiers](Avis_voie_carrossable.pdf) a éteint les débats infinis sur l'usage de la voie carrossable.
 
