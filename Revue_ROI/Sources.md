@@ -8,3 +8,7 @@
 ### Pour les locataires de Lorebru
 
 * [**ROI de Lorebru**](ROI_Lorebru_2005.pdf) (version du 05.05.2005)
+
+### Pour les locataires du Logement Bruxellois
+
+* [**ROI du Logement Bruxellois**](ROI_Logement_Bxl_2016.pdf) (&nbsp;<mark><b>&nbsp;applicable actuellement à la Brabançonne&nbsp;</b></mark>&nbsp;)
