@@ -4,11 +4,14 @@ Au cours des *Drinks* qui nous séparent de l'Assemblée Générale statutaire d
 
 ## Les articles soumis à révision
 
-* [**Répondez au sondage**]() - celui-ci restera <font color="red"><b>ouvert à tous</b></font> jusqu'au dernier *Drink* utile avant l'AG de 2018
-* [**Sources d'inspiration**](Sources.md) - sont recensés ici d'autres ROI existent sur le web, ainsi que le ROI applicable aux locataires sociaux
+* [**Répondez au sondage**](https://goo.gl/forms/fIdhrp0iJgdRNojq2) <br> celui-ci est <mark><b>&nbsp;ouvert </b></mark> jusqu'au dernier *Drink* avant l'AG de 2018<br>vous pouvez sans limite modifier vos réponses<br>vous pouvez sans limites ajouter vos suggestions<br>&nbsp;
+* [**Sources d'inspiration**](Sources.md) - sont recensés ici d'autres ROI découverts sur le web, ainsi que des ROI applicables aux locataires sociaux
+* Les sujets évoqués lors des [**Drinks du printemps 2017**]()
 * Les sujets abordés lors du [**Drink du 26.10.2017**]()
 * Les sujets abordés lors du [**Drink du 30.11.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
 * Les sujets abordés lors du [**Drink du 14.12.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
+
+## &Eacute;tat de la réflexion
 
 | Articles | &nbsp; |
 | --- | --- |
