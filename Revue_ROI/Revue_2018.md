@@ -54,7 +54,7 @@ cela signifie aussi que, **même si l'AG devait voter une telle interdiction**, 
 4. Par contre, n'importe quel copropriétaire peut soumettre une proposition à l'Assemblée Générale. Il suffit de rédiger un point d'ordre du jour +/- comme suit :  
 `A l'article # du ROI, il est proposé de remplacer la phrase "(...)" par "(...)" (vote à la majorité simple)` 
 
-5. Modifier le ROI ne nécessite qu'un vote à la **majorité simple** (50% des quotités présentes ou représentées + 1 quotité) ; vu la structure de la "*Brabançonne*", il suffit donc d'obtenir l'accord du copropriétaire principal quant au **bon sens (et applicablilité pratique) de la proposition** de modification soumise au vote de l'AG.
+5. Modifier le ROI ne nécessite qu'un vote à la **majorité simple** (50% des quotités présentes ou représentées + 1 quotité) ; vu la structure de la "*Brabançonne*", il suffit donc d'obtenir l'accord du copropriétaire principal quant au **bon sens (et applicabilité pratique) de la proposition** de modification soumise au vote de l'AG.
 
 ## Références historiques
 
