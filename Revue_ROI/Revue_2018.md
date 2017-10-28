@@ -29,32 +29,32 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 
 ## Un peu de droit
 
-Le règlement d'rrdre intérieur (ROI) constitue une obligation légale depuis 1920. Le Code Civil a été revu en 1994 et, pour la dernière fois, le 02.06.2010, mais il confirme que **les copropriétés doivent être dotées d'un ROI**.
+Le règlement d'ordre intérieur (ROI) constitue une obligation légale depuis 1920. Le Code Civil a, certes, été revu dans les années '50, en 1994 et, pour la dernière fois, le 02.06.2010, mais il y a toujours été confirmé que **les copropriétés <u>doivent</u> être dotées d'un ROI**.
 
-**[Ce qu'exige précisément  le Législateur](Droit.md)**
+* Rappel de **[ce qu'exige précisément  le Législateur](Droit.md)** des copropriétés
 
 Comme le ROI aborde un **champ potentiellement vaste** et vise à spécifier des droits et des obligations liés à des **situations juridiques très diverses** (copropriétaire &ne; locataire &ne; concierge &ne; fournisseurs &ne; visiteurs), le Législateur n'exige pas  que le ROI fasse l'object d'un acte notarié.
 
 ## Conséquences
 
-Le ROI ne doit pas être déposé devant notaire. Cela a six conséquences.
+Le ROI ne doit pas être déposé devant notaire. Cela a cinq conséquences.
 
 1. Le ROI n'est **pas opposable** aux tiers.
 > EXEMPLE PASS&Eacute; :  
-cela signifie qu'on ne pouvait pas faire enlever par la police une voiture qui stationnait sur la voie carrossable, même si le ROI interdisait de s'y parquer ;  
+cela signifie qu'on ne pouvait pas faire enlever par la police une voiture qui stationnait sur la voie carrossable, même si le ROI interdisait de s'y parquer.  
 > DISPOSITION INENVISAGEABLE &Agrave; L'AVENIR :  
-cela signifie aussi que, **même si l'AG devait voter une telle interdiction**, on ne pourrait pas interdire le dépôt de messages publicitaires dans toutes les boîtes ; les tiers ne sont en effet pas censés obéir au ROI de la Brabançonne ...
+cela signifie aussi que, **même si l'AG devait voter une telle interdiction**, on ne pourrait pas interdire le dépôt de messages publicitaires dans toutes les boîtes ; les tiers ne sont en effet pas censés "obéir" au ROI de la Brabançonne ...
 
 2. Le ROI est **modifiable s'il est admis que les conditions de vie en commun se sont modifiées** ; et comme le ROI n'est pas un texte "notarié", il est possible de le modifier :
     *  si de nouvelles situations apparaissent : par exemple, la construction au début du siècle d'un lieu de culte dans le voisinage ; ou 
-    * si certains problèmes ne se posent plus du tout, ou plus dans les mêmes termes : par exemple, un [avis des pompiers](Avis_voie_carrossable.pdf) pour la voie carrossable.
+    * si certains problèmes ne se posent plus du tout, ou plus dans les mêmes termes : par exemple, un [avis des pompiers](Avis_voie_carrossable.pdf) à éteint les débats infinis sur l'usage de la voie carrossable.
 
-4. Comme le mandat du Syndic se limite à faire respecter les règles de vie, **le Syndic ne peut pas formuler de propositions de modifications du ROI** à l'Assemblée Générale ; c'est une saine application du principe de séparation des pouvoirs entre l'Exécutif (syndic) et le Législatif (AG).
+3. Comme le mandat du Syndic se limite à faire respecter les règles de vie, **le Syndic ne peut pas formuler de propositions de modifications du ROI** à l'Assemblée Générale ; c'est une saine application du principe de séparation des pouvoirs entre l'Exécutif (syndic) et le Législatif (AG).
 
-5. Par contre, n'importe quel copropriétaire peut soumettre une proposition à l'Assemblée Générale. Il suffit de rédiger un point d'ordre du jour +/- comme suit :  
+4. Par contre, n'importe quel copropriétaire peut soumettre une proposition à l'Assemblée Générale. Il suffit de rédiger un point d'ordre du jour +/- comme suit :  
 `A l'article # du ROI, il est proposé de remplacer la phrase "(...)" par "(...)" (vote à la majorité simple)` 
 
-6. Modifier le ROI ne nécessite qu'un vote à la **majorité simple** (50% des quotités présentes ou représentées + 1 quotité) ; vu la structure de la "*Brabançonne*", il suffit donc d'obtenir l'accord du copropriétaire principal quant au **bon sens (et applicablilité pratique) de la proposition** de modification soumise au vote de l'AG.
+5. Modifier le ROI ne nécessite qu'un vote à la **majorité simple** (50% des quotités présentes ou représentées + 1 quotité) ; vu la structure de la "*Brabançonne*", il suffit donc d'obtenir l'accord du copropriétaire principal quant au **bon sens (et applicablilité pratique) de la proposition** de modification soumise au vote de l'AG.
 
 ## Références historiques
 
