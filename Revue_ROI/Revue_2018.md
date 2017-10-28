@@ -1,13 +1,13 @@
 # Vers une mise à jour du ROI ?
 
-Au cours des *Drinks* qui nous séparent de l'Assemblée Générale statutaire de (en principe : première quinzaine de mars) 2018, et pour la première fois lors du **[*Drink* du 26.10.2017]()**, il est proposé de réfléchir sereinement aux règles de vie commune de l'immeuble.
+Au cours des *Drinks* qui nous séparent de l'Assemblée Générale statutaire de (en principe : première quinzaine de mars) 2018, et pour la première fois lors du ***Drink* du 26.10.2017, il est proposé de réfléchir sereinement aux règles de vie commune de l'immeuble.
 
 ## Les articles soumis à révision
 
-* [**Répondez au sondage**](https://goo.gl/forms/fIdhrp0iJgdRNojq2) <br> celui-ci est <mark><b>&nbsp;ouvert </b></mark> jusqu'au dernier *Drink* avant l'AG de 2018<br>vous pouvez sans limite modifier vos réponses<br>vous pouvez sans limites ajouter vos suggestions<br>&nbsp;
+* [**Répondez au sondage**](https://goo.gl/forms/fIdhrp0iJgdRNojq2) <br> celui-ci est <mark><b>&nbsp;ouvert&nbsp;</b></mark>&nbsp;jusqu'au dernier *Drink* avant l'AG de 2018<br><font color="lime">&nabla;</font> vous pouvez **sans limites** modifier vos réponses<br><font color="lime">&nabla;</font> vous pouvez **sans limites** ajouter vos suggestions<br>&nbsp;
 * [**Sources d'inspiration**](Sources.md) - sont recensés ici d'autres ROI découverts sur le web, ainsi que des ROI applicables aux locataires sociaux
 * Les sujets évoqués lors des [**Drinks du printemps 2017**]()
-* Les sujets abordés lors du [**Drink du 26.10.2017**]()
+* Les sujets abordés lors du [**Drink du 26.10.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
 * Les sujets abordés lors du [**Drink du 30.11.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
 * Les sujets abordés lors du [**Drink du 14.12.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
 
