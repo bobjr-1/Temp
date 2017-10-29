@@ -15,10 +15,11 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 &Eacute;ventuellement, nous pourrions "créer" de nouveaux articles, si de nos *Drinks* ressort l'impression qu'un problème (une situation de vie) ou l'autre n'a jamais été "réglementé" depuis soixante ans par le ROI.
 
 * [**Sources d'inspiration**](Sources.md) - sont recensés ici d'autres ROI découverts sur le web, ainsi que des ROI applicables aux locataires sociaux
-* Les sujets évoqués lors des [**Drinks du printemps 2017**]() <font color="orange">ce lien n'est pas encore activé</font>
-* Les sujets abordés lors du [**Drink du 26.10.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
-* Les sujets abordés lors du [**Drink du 30.11.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
-* Les sujets abordés lors du [**Drink du 14.12.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
+* [**Résultats du sondage de 2016**](Sondage_2016.pdf) réalisé auprès des copropriétaires et des locataires<br>&nbsp;
+* Sujets évoqués lors des [**Drinks du printemps 2017**]() <font color="orange">ce lien n'est pas encore activé</font>
+* Sujets abordés lors du [**Drink du 26.10.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
+* Sujets abordés lors du [**Drink du 30.11.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
+* Sujets abordés lors du [**Drink du 14.12.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
 
 ## &Eacute;tat de la réflexion
 
