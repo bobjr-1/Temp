@@ -14,7 +14,7 @@ Par ailleurs, l'attention a été portée sur des [bonnes pratiques](https://www
 
  * "[éviter] *les bruits répétitifs, intensifs ou qui durent dans le temps*" ;  
  * "*éviter de mettre en route la machine à laver après 22h*" ;  
- * "*éviter autant que possible de [...] de claquer les portes*"
+ * "*éviter autant que possible [...] de claquer les portes*"
 
 ### Projet de motion pour l'AG 2018
 
