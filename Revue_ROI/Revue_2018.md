@@ -24,8 +24,8 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 ## &Eacute;tat de la réflexion
 
 | Vue panoramique | &nbsp; | Articles |
-| --- | --- | --- |
-| [![](Gingko.png)](https://gingkoapp.com/roi-brabanconne)<br>`Cliquez sur l'image` | [Article 23](Art_23_3.md) | ajout d'un §3 ? - **[alerte *Twitter*](https://twitter.com/brab80webscom/status/926798131005595648)** |
+| :---: | --- | --- |
+| `Cliquer sur l'image`<br>[![](Gingko.png)](https://gingkoapp.com/roi-brabanconne) | [Article 23](Art_23_3.md) | ajout d'un §3 ? - **[alerte *Twitter* 04.11.2017](https://twitter.com/brab80webscom/status/926798131005595648)** |
 
 ## Un peu de droit
 
