@@ -2,7 +2,7 @@
 
 ### Exposé des motifs
 
-Lors d'un [*Drink* du printemps 2017](Earlier.Drinks.md), il a été suggéré de sensibiliser davantage les occupants au respect de certaines règles de civilité.
+Lors d'un [*Drink* du printemps 2017](https://bobjr-1.github.io/Temp/Revue_ROI/Earlier_Drinks.html), il a été suggéré de sensibiliser davantage les occupants au respect de certaines règles de civilité.
 
 L'article 3 ("*Occupation de l'habitation*") du [ROI du Logement bruxellois](https://bobjr-1.github.io/Temp/Revue_ROI/ROI_Logement_Bxl_2016.pdf) énumère un certain nombre de points sur lesquels une attention gagne à être portée :  
 
