@@ -31,7 +31,7 @@ Il est proposé de restructurer l'Article 11 du Règlement d'Ordre Intérieur de
 
 | Statut de l'amendement |
 | --- |
-| Partagé *via* le [**Tweet2 du 04.11.2017**]() |
+| Partagé *via* le [**Tweet2 du 04.11.2017**](https://twitter.com/brab80webscom/status/926913650195038219) |
 | Pour discussion au *Drink* du 30.11.2017 |
 
 
