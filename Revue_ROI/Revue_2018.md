@@ -29,8 +29,8 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 
 | Articles | &nbsp; |
 | --- | --- |
-| Article x | proposition martyre - alerte *Twitter* |
-| Article x | <font color="red">validé par le Drink du xx.xx.2017</font> |
+| [Article 23](Art_23_3.md) | nouvel §3 (?) - **[alerte *Twitter*]()** |
+
 
 ## Un peu de droit
 
