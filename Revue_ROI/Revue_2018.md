@@ -23,6 +23,10 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 
 ## &Eacute;tat de la réflexion
 
+| Vue panoramique sur la réflexion |
+| --- |
+| [![](Gingko.png)](https://gingkoapp.com/roi-brabanconne)&nbsp;`Cliquez sur l'image` |
+
 | Articles | &nbsp; |
 | --- | --- |
 | Article x | proposition martyre - alerte *Twitter* |
@@ -30,7 +34,7 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 
 ## Un peu de droit
 
-Le règlement d'ordre intérieur (ROI) constitue une obligation légale depuis 1920. Le Code Civil a, certes, été revu dans les années '50, en 1994 et, pour la dernière fois, le 02.06.2010, mais il y a toujours été confirmé que **les copropriétés <u>doivent</u> être dotées d'un ROI**.
+Le règlement d'ordre intérieur (ROI) constitue une obligation légale depuis la loi du 08.07.1924. Le Code Civil a, certes, été revu dans les années '50, puis le 30.06.1994 et, pour la dernière fois, le 02.06.2010, mais il y a toujours été confirmé que **les copropriétés <u>doivent</u> être dotées d'un ROI**.
 
 * Rappel de **[ce qu'exige précisément  le Législateur](Droit.md)** des copropriétés
 
