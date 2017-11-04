@@ -21,7 +21,7 @@ Par ailleurs, l'attention a été portée sur des [bonnes pratiques](https://www
 Il est proposé de restructurer l'Article 11 du Règlement d'Ordre Intérieur de la manière suivante : l'idée est de faire du §2 une liste de comportements et du §3 une liste des points d'attention et de respect vis-à-vis des voisins.  (majorité simple).
 
 * **11.1.** (inchangé)  
-* **11.2.** Les <u>occupants</u> veillent à ce que <u>[...]</u> leur comportement et celui des personnes ou animaux dont ils ont la garde <u>[...]</u> ne troublent, ni la tranquillité, ni la santé des autres occupants, <u>en particulier ils veillent à s'abstenir de :</u>  
+* **11.2.** Les <u>occupants</u> veillent à ce que <u>[...]</u> leur comportement et celui des personnes ou animaux dont ils ont la garde <u>[...]</u> ne troublent, ni la tranquillité, ni la santé des autres occupants ; <u>en particulier, ils veillent à s'abstenir de :</u>  
   * <u>faire des travaux (forages, marteau, ...) ;</u>  
   * <u>déplacer meubles et objets ;</u>  
   * <u>claquer les portes</u>.  
