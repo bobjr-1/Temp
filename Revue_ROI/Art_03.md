@@ -4,7 +4,7 @@
 
 Lors du [*Drink* du 26.10.2017](https://bobjr-1.github.io/Temp/Revue_ROI/Drink_20171026.html), l'attention a été attirée sur le fait que le §2 de l'Article 3 prévoit le cas d'absences des occupants.  
 
-> * **03.2** "*Si les occupants de l'immeuble <u>s'absentent</u>, ils sont invités à remettre une clé de leur local privatif à un mandataire* (...)"
+* **03.2** "*Si les occupants de l'immeuble <u>s'absentent</u>, ils sont invités à remettre une clé de leur local privatif à un mandataire* (...)"
 
 **Cette notion est trop vague : à partir de quelle durée parle-t-on d'absence ?**
 
