@@ -23,11 +23,15 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 
 ## &Eacute;tat de la réflexion
 
-| Vue panoramique | &nbsp; | Articles |
-| :---: | --- | --- |
-| `Cliquer sur l'image`<br>[![](Gingko.png)](https://gingkoapp.com/roi-brabanconne) | [**Art. 23**](Art_23_3.md) | ajout d'un §3 ? - **[alerte *Twitter* (1) du 04.11.2017](https://twitter.com/brab80webscom/status/926798131005595648)** |
-| &nbsp; | [**Art. 11**](Art_11.md) | refonte de l'article ? - **[alerte *Twitter* (2) du 04.11.2017](https://twitter.com/brab80webscom/status/926913650195038219)** |
-| <mark><b>&nbsp;NEW&nbsp;</b></mark> | [**Art. 03**](Art_03.md) | modalités + précises ? - **[alerte *Twitter* du 25.11.2017](https://twitter.com/brab80webscom/status/934372196889309184)** |
+| Vue panoramique |
+| --- |
+| `Cliquer sur l'image`<br>[![](Gingko.png)](https://gingkoapp.com/roi-brabanconne) |
+
+| Articles | &nbsp; |
+| :---: | --- |
+| [**Art. 03**](Art_03.md) | Faut-il préciser la notion d'`absence` ? - **[alerte *Twitter* du 25.11.2017](https://twitter.com/brab80webscom/status/934372196889309184)** |
+| [**Art. 11**](Art_11.md) | Faut-il restructurer l'article ? - **[alerte *Twitter* (2) du 04.11.2017](https://twitter.com/brab80webscom/status/926913650195038219)** |
+| [**Art. 23**](Art_23_3.md) | Faut-il ajouter un §3 ? - **[alerte *Twitter* (1) du 04.11.2017](https://twitter.com/brab80webscom/status/926798131005595648)** |
 
 ## Un peu de droit
 
