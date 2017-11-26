@@ -28,9 +28,10 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 | `Cliquer sur l'image`<br>[![](Gingko.png)](https://gingkoapp.com/roi-brabanconne) |
 
 | Articles | &nbsp; |
-| :---: | --- |
+| ---: | --- |
 | [**Art. 03**](Art_03.md) | Faut-il préciser la notion d'`absence` ? - **[alerte *Twitter* du 25.11.2017](https://twitter.com/brab80webscom/status/934372196889309184)** |
 | [**Art. 11**](Art_11.md) | Faut-il restructurer l'article ? - **[alerte *Twitter* (2) du 04.11.2017](https://twitter.com/brab80webscom/status/926913650195038219)** |
+| [**Art. 13 & 21**](Art_13_et_21.md) | Plus de sécurité en sous-sol ? - **[alerte *Twitter* du 26.11.2017]()** |
 | [**Art. 23**](Art_23_3.md) | Faut-il ajouter un §3 ? - **[alerte *Twitter* (1) du 04.11.2017](https://twitter.com/brab80webscom/status/926798131005595648)** |
 
 ## Un peu de droit

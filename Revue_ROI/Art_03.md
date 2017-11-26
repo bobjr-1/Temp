@@ -15,7 +15,7 @@ Il est à noter que l'article 7 ("*Accès à l'habitation*") du [ROI du Logement
 
 ### Projet de motion pour l'AG 2018
 
-Il est proposé de modifier l'article 3 de la manière suivante :
+Il est proposé de modifier l'article 3 du Règlement d'ordre intérieur de la manière suivante  (majorité simple) :
 
 **03.1.**  
 Les occupants de l’immeuble doivent fournir accès pour toutes réparations, pour l’entretien et le nettoyage des parties communes le nécessitant, <u>dès lors qu'un avis aura été déposé à l'entrée de l'immeuble ou par lettre personnalisée.</u>
