@@ -10,7 +10,9 @@ Lors du [*Drink* du 26.10.2017](https://bobjr-1.github.io/Temp/Revue_ROI/Drink_2
 
 En outre, la proximité des caves avec les passages qui mènent aux conteneurs destinés à récolter les ordures ménagères a été considérée comme un facteur réduisant la sécurité (= le sentiment de sécurité) des occupants.
 
-Il est proposé de responsabiliser les propriétaires de caves, en rappelant aux copropriétaires qu'ils sont responsables de la sécurité de leur porte de cave, en développant le point **13.3.** en introduisant l'obligation d'équiper les serrures de manière adéquate.
+Il est proposé de responsabiliser les propriétaires de caves, en rappelant aux copropriétaires qu'ils sont responsables de la sécurité de leur porte de cave.
+
+Pour ce faire, il s'agit de développer le point **13.3.** en introduisant l'obligation d'équiper les serrures de manière adéquate.
 
 * #### En ce qui concerne l'Article 13.5.
 
