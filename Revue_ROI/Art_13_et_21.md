@@ -34,8 +34,8 @@ Cet avis se concluait par "*7. De garage mag voor geen ander doel gebruikt worde
 
 S'il appartient au Syndic de prendre la responsabilité (Cf. suppression de l'art. **13.5.**), au titre de gestionnaire de l'immeuble, de définir de nouveaux emplacements pour les conteneurs, afin, par souci de sécurité, de respecter l'avis des pompiers, les occupants restent quant à eux tenus :
 
-* de déposer et de trier les ordures à l'endroit qui leur sera indiqué par les soins du Syndic (=&gt; le point **21.2** est à modifier) ;  
-* de déposer les ordures uniquement à ce nouvel endroit (=&gt; le point **21.3** "*Il est défendu de déposer les poubelles dans un endroit différent*" peut demeurer inchangé)
+* de déposer et de trier les ordures à l'endroit qui leur sera indiqué par les soins du Syndic<br>=&gt; le point **21.2.** est à modifier ;  
+* de déposer les ordures uniquement à ce nouvel endroit<br>=&gt; le point **21.3.** ("*Il est défendu de déposer les poubelles dans un endroit différent*") peut quant à lui demeurer inchangé)
 
 ### Projet de motion pour l'AG 2018
 
@@ -45,7 +45,7 @@ En vue de contribuer à l'amélioration de la sécurité dans les sous-sols (cou
 * **13.2.** ( inchangé )  
 * **13.3.** Pour la sécurité de l’immeuble, il est <u>rappellé aux copropriétaires qu'ils doivent veiller à équiper leur cave de serrures adéquates et qu'il leur est</u> interdit de stocker dans les caves des matières inflammables, dangereuses ou pestilentielles.  
 * **13.4.** ( inchangé )  
-* ( il est proposé de supprimer l'alinéa **13.05** (Cf. point 7. de l'[avis des pompiers du 25.07.2012](Advies_Brandweer_20120725.pdf)) )  
+* ( il est proposé de supprimer l'alinéa **13.5.** (Cf. point 7. de l'[avis des pompiers du 25.07.2012](Advies_Brandweer_20120725.pdf)) )  
 * **21.1.** ( inchangé )  
 * **21.2.** Il doit les déposer dans les conteneurs <u>aux endroits spécifiés par le Syndic</u> ; ceux-ci sont destinés à permettre le tri sélectif des ordures.  
 * **21.3.** ( inchangé )  
