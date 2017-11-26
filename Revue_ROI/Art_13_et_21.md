@@ -4,7 +4,7 @@
 
 * #### En ce qui concerne l'Article 13.3.
 
-Lors du [*Drink* du 26.10.2017](https://bobjr-1.github.io/Temp/Revue_ROI/Drink_2071026.html), il a été relevé que l'attention des occupants était insuffisamment attirée sur les caves, qu'il s'agisse :
+Lors du [*Drink* du 26.10.2017](Drink_2071026.md), il a été relevé que l'attention des occupants était insuffisamment attirée sur les caves, qu'il s'agisse :
 * d'un système efficace de serrurerie pour chaque porte de cave ;
 * d'un système de serrurerie qui décourage les rodeurs, voire les trafics. <mark>&nbsp;ce point est à réexaminer à la lumière de la situation après l'instauration du nouveau système de badgage (Cf. badges distribués le 07.11.2017)&nbsp;</mark>
 
@@ -14,7 +14,7 @@ Il est proposé de responsabiliser les propriétaires de caves, en rappelant aux
 
 * #### En ce qui concerne l'Article 13.5.
 
-Par ailleurs, un [avis des pompiers](https://goo.gl/d8G2a1) demandé par MM. Lesuisse et El Hassouni en 2012 a été révélé dans le contexte de l'inventaire.
+Par ailleurs, un [avis des pompiers](Advies_Brandweer_20120725.pdf) demandé par MM. Lesuisse et El Hassouni en 2012 a été révélé dans le contexte de l'inventaire.
 
 Cet avis se concluait par "*7. De garage mag voor geen ander doel gebruikt worden; al de voorwerpen en materialen die er zich bevinden moeten verwijderd worden.* (...) *<u>De afvalcontainers moeten dringend uit de ondergrondse garages verdwijnen.</u>*"  
 > <u>TRADUCTION DE LA PHRASE SOULIGN&Eacute;E :</u> les conteneurs à déchets doivent d'urgence disparaître des garages.
@@ -25,7 +25,7 @@ Dans ces circonstances, il est proposé de **supprimer le point 13.5.** : "*Il e
 
 * #### En ce qui concerne l'Article 21
 
-Un [avis des pompiers](https://goo.gl/d8G2a1) demandé par MM. Lesuisse et El Hassouni en 2012 a été révélé dans le contexte de l'inventaire.
+Un [avis des pompiers](Advies_Brandweer_20120725.pdf) demandé par MM. Lesuisse et El Hassouni en 2012 a été révélé dans le contexte de l'inventaire.
 
 Cet avis se concluait par "*7. De garage mag voor geen ander doel gebruikt worden; al de voorwerpen en materialen die er zich bevinden moeten verwijderd worden.* (...) *<u>De afvalcontainers moeten dringend uit de ondergrondse garages verdwijnen.</u>*"  
 > <u>TRADUCTION DE LA PHRASE SOULIGN&Eacute;E :</u> les conteneurs à déchets doivent d'urgence disparaître des garages.
