@@ -4,9 +4,9 @@
 
 * #### En ce qui concerne l'Article 13.3.
 
-Lors du [*Drink* du 26.10.2017](Drink_2071026.md), il a été relevé que l'attention des occupants était insuffisamment attirée sur les caves, qu'il s'agisse :
+Lors du [*Drink* du 26.10.2017](https://bobjr-1.github.io/Temp/Revue_ROI/Drink_20171026.html), il a été relevé que l'attention des occupants était insuffisamment attirée sur les caves, qu'il s'agisse :
 * d'un système efficace de serrurerie pour chaque porte de cave ;
-* d'un système de serrurerie qui décourage les rodeurs, voire les trafics. <mark>&nbsp;ce point est à réexaminer à la lumière de la situation après l'instauration du nouveau système de badgage (Cf. badges distribués le 07.11.2017)&nbsp;</mark>
+* d'un système de serrurerie qui décourage les rôdeurs, voire les trafics. <mark>&nbsp;ce point est à réexaminer à la lumière de la situation après l'instauration du nouveau système de badgeage (Cf. badges distribués le 07.11.2017)&nbsp;</mark>
 
 En outre, la proximité des caves avec les passages qui mènent aux conteneurs destinés à récolter les ordures ménagères a été considérée comme un facteur réduisant la sécurité (= le sentiment de sécurité) des occupants.
 
