@@ -3,6 +3,7 @@
 ### Dans des copropriétés wallonnes ou bruxelloises
 
 * [**ROI d'une copropriété de Louvain-la-Neuve**](ROI_LLN.pdf) (adopté le 27.02.2008)
+* Acte de base de la [**copropriété *Tivoli Green City* à Bruxelles**](Tivoli_Green_City_1020Bxl.pdf)
 * [**ROI du Foyer bruxellois**](ROI_Foyer_bxl_2010.pdf) (applicable à partir du 01.01.2010)
 
 ### Dans des copropriétés françaises
