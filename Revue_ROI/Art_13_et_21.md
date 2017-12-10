@@ -37,6 +37,15 @@ S'il appartient au Syndic de prendre la responsabilité (Cf. suppression de l'ar
 * de déposer et de trier les ordures à l'endroit qui leur sera indiqué par les soins du Syndic<br>=&gt; le point **21.2.** est à modifier ;  
 * de déposer les ordures uniquement à ce nouvel endroit<br>=&gt; le point **21.3.** ("*Il est défendu de déposer les poubelles dans un endroit différent*") peut quant à lui demeurer inchangé)
 
+Lors du [*Drink* du 30.11.2017](Drink_20171130.md), l'attention a été attirée sur le fait que la rédaction de l'article **13.4.** doit être mise à jour pour faciliter les opérations d'évacuation d'encombrants organisés par [Bruxelles-Propreté](https://www.arp-gan.be/fr/tri/7-encombrants-mnagers.html)
+
+* la responsabilité de signaler des encombrants à évacuer est reportée sur les occupants individuels ;  
+* Bruxelles-Propreté leur offre cependant deux fois par an le droit de participer aux opérations d'évacuation d'encombrants ;  
+* il suffit de contacter le numéro `gratuit` 0800/981.81 pour être en règle (droit à 3 m&sup3; par an et par ménage).
+
+(évacuation des encombrants) a fait l'objet de la suggestion de fournir les coordonnées de Bruxelles-Propreté.
+
+
 ### Projet de motion pour l'AG 2018
 
 En vue de contribuer à l'amélioration de la sécurité dans les sous-sols (couloirs menant vers les caves, caves, couloirs menant aux conteneurs, emplacement des conteneurs à déchets), il est proposé de modifier les articles **13** et **21** du Règlement d'ordre intérieur comme suit   (majorité simple) :
@@ -44,7 +53,7 @@ En vue de contribuer à l'amélioration de la sécurité dans les sous-sols (cou
 * **13.1.** ( inchangé )  
 * **13.2.** ( inchangé )  
 * **13.3.** Pour la sécurité de l’immeuble, il est <u>rappellé aux copropriétaires qu'ils doivent veiller à équiper leur cave de serrures adéquates et qu'il leur est</u> interdit de stocker dans les caves des matières inflammables, dangereuses ou pestilentielles.  
-* **13.4.** ( inchangé )  
+* **13.4.** <u>Pour l'enlèvement à domicile de vos</u> objets encombrants, contact devra être pris avec <u>Bruxelles-Propreté en téléphonant au n° gratuit 0800/981.81 (! une fois par semestre !)</u>.  
 * ( il est proposé de supprimer l'alinéa **13.5.** (Cf. point 7. de l'[avis des pompiers du 25.07.2012](Advies_Brandweer_20120725.pdf)) )  
 * **21.1.** ( inchangé )  
 * **21.2.** Il doit les déposer dans les conteneurs <u>aux endroits spécifiés par le Syndic</u> ; ceux-ci sont destinés à permettre le tri sélectif des ordures.  
