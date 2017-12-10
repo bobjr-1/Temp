@@ -22,7 +22,7 @@ Lors du [*Drink* du 30.11.2017](Drink_20171130.md), l'attention a été attirée
 * Bruxelles-Propreté leur offre cependant deux fois par an le droit de participer aux opérations d'évacuation d'encombrants ;  
 * il suffit de contacter le numéro `gratuit` 0800/981.81 pour être en règle (droit à 3 m&sup3; par an et par ménage).
 
-(évacuation des encombrants) a fait l'objet de la suggestion de fournir les coordonnées de Bruxelles-Propreté.
+Il serait donc plus efficace de communiquer les coordonnées de Bruxelles-Propreté via le Règlement d'Ordre Intérieur.
 
 * #### En ce qui concerne l'Article 13.5.
 
