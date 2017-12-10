@@ -13,6 +13,12 @@ Il est à noter que l'article 7 ("*Accès à l'habitation*") du [ROI du Logement
 * "*&Agrave; l’occasion d’une visite annoncée, si le locataire s’absente, il est invité à remettre une clé de son logement à une personne de son choix dont le nom et l’adresse doivent être connus du Logement Bruxellois de manière à pouvoir accéder au logement.*"  
 * Il est à noter que cette disposition est elle-même précédée d'un alinéa qui assure que les locataires auront été avertis au préalable selon des formes précises : "*un avis déposé, soit à l’entrée de l’immeuble, soit par lettre personnalisée, soit encore par le concierge ou par téléphone.*"
 
+<mark>&nbsp;NEW&nbsp;</mark>  
+Le [*Drink* du 30.11.2017](Drink_30.11.2017.md) a souhaité apporter les précisions suivantes :
+
+* que les dates d'intervention soient communiquées avec un préavis suffisant ;
+* que les explications soient fournies dans les deux langues officielles en Région de Bruxelles-Capitale
+
 ### Projet de motion pour l'AG 2018
 
 Il est proposé de modifier l'article 3 du Règlement d'ordre intérieur de la manière suivante  (majorité simple) :
