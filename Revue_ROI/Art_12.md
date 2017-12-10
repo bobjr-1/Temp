@@ -2,7 +2,7 @@
 
 ### Exposé des motifs
 
-Lors du [*Drink* du 30.11.2017](Drink_2071130.md), il a été demandé de vérifier si des règles de responsabilité existaient ou non dans la législation applicable en Région de Bruxelles-Capitale.
+Lors du [*Drink* du 30.11.2017](Drink_20171130.md), il a été demandé de vérifier si des règles de responsabilité existaient ou non dans la législation applicable en Région de Bruxelles-Capitale.
 
 > La législation consolidée ne prévoit rien en ce qui concerne les jeunes (moins de 14 ans) non accompagnés, contrairement à ce que prévoit comme règle l'article 2 ("*Les ascenseurs ne sont pas des jouets*")du [ROI du Logement bruxellois](ROI_Logement_Bxl_2016.pdf) (p. 8/34) 
 
