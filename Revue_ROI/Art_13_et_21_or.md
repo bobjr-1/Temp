@@ -54,5 +54,6 @@ En vue de contribuer à l'amélioration de la sécurité dans les sous-sols (cou
 | Statut de l'amendement |
 | --- |
 | Partagé *via* le [**Tweet du 26.11.2017**](https://twitter.com/brab80webscom/status/934704494880882688) |
-| Texte discuté au **[*Drink* du 30.11.2017](Art_13_et_21_or.md)** |
-| Pour discussion au *Drink* du 14.12.2017 |
+| Pour discussion au *Drink* du 30.11.2017 |
+
+

@@ -15,7 +15,6 @@ Il est proposé d'ajouter un 3ème alinéa à l'Article 23 du Règlement d'Ordre
 | Statut de l'amendement |
 | --- |
 | Partagé *via* le [**Tweet1 du 04.11.2017**](https://twitter.com/brab80webscom/status/926798131005595648) |
-| Texte discuté au **[*Drink* du 30.11.2017](Art_23_3_or.md)** |
-| Pour discussion au *Drink* du 14.12.2017 |
+| Pour discussion au *Drink* du 30.11.2017 |
 
 
