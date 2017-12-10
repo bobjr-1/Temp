@@ -14,6 +14,16 @@ Il est proposé de responsabiliser les propriétaires de caves, en rappelant aux
 
 Pour ce faire, il s'agit de développer le point **13.3.** en introduisant l'obligation d'équiper les serrures de manière adéquate.
 
+* #### <mark>&nbsp;NEW&nbsp; </mark> En ce qui concerne l'Article 13.4.
+
+Lors du [*Drink* du 30.11.2017](Drink_20171130.md), l'attention a été attirée sur le fait que la rédaction de l'article **13.4.** doit être mise à jour pour faciliter les opérations d'évacuation d'encombrants organisés par [Bruxelles-Propreté](https://www.arp-gan.be/fr/tri/7-encombrants-mnagers.html)
+
+* la responsabilité de signaler des encombrants à évacuer est reportée sur les occupants individuels ;  
+* Bruxelles-Propreté leur offre cependant deux fois par an le droit de participer aux opérations d'évacuation d'encombrants ;  
+* il suffit de contacter le numéro `gratuit` 0800/981.81 pour être en règle (droit à 3 m&sup3; par an et par ménage).
+
+(évacuation des encombrants) a fait l'objet de la suggestion de fournir les coordonnées de Bruxelles-Propreté.
+
 * #### En ce qui concerne l'Article 13.5.
 
 Par ailleurs, un [avis des pompiers](Advies_Brandweer_20120725.pdf) demandé par MM. Lesuisse et El Hassouni en 2012 a été révélé dans le contexte de l'inventaire.
@@ -36,15 +46,6 @@ S'il appartient au Syndic de prendre la responsabilité (Cf. suppression de l'ar
 
 * de déposer et de trier les ordures à l'endroit qui leur sera indiqué par les soins du Syndic<br>=&gt; le point **21.2.** est à modifier ;  
 * de déposer les ordures uniquement à ce nouvel endroit<br>=&gt; le point **21.3.** ("*Il est défendu de déposer les poubelles dans un endroit différent*") peut quant à lui demeurer inchangé)
-
-Lors du [*Drink* du 30.11.2017](Drink_20171130.md), l'attention a été attirée sur le fait que la rédaction de l'article **13.4.** doit être mise à jour pour faciliter les opérations d'évacuation d'encombrants organisés par [Bruxelles-Propreté](https://www.arp-gan.be/fr/tri/7-encombrants-mnagers.html)
-
-* la responsabilité de signaler des encombrants à évacuer est reportée sur les occupants individuels ;  
-* Bruxelles-Propreté leur offre cependant deux fois par an le droit de participer aux opérations d'évacuation d'encombrants ;  
-* il suffit de contacter le numéro `gratuit` 0800/981.81 pour être en règle (droit à 3 m&sup3; par an et par ménage).
-
-(évacuation des encombrants) a fait l'objet de la suggestion de fournir les coordonnées de Bruxelles-Propreté.
-
 
 ### Projet de motion pour l'AG 2018
 
