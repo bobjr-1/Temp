@@ -26,7 +26,7 @@ Si les occupants de l'immeuble s'absentent <u>pour une visite prévue par l'alin
 | Statut de l'amendement |
 | --- |
 | Partagé *via* le [**Tweet du 25.11.2017**](https://twitter.com/brab80webscom/status/934372196889309184) |
-| Texte discuté au **[*Drink* du 30.11.2017](Art_03_or.md)** |
-| Pour discussion au *Drink* du 14.12.2017 |
+| Pour discussion au *Drink* du 30.11.2017 |
+
 
 
