@@ -30,6 +30,7 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 | Articles | Texte *martyrs* |(REVUS) |
 | ---: | --- | --- |
 | [**Art. 03**](Art_03_or.md) | Faut-il préciser la notion d'`absence` ?<br>**[alerte *Twitter* du 25.11.2017](https://twitter.com/brab80webscom/status/934372196889309184)** | [**Art. 03**](Art_03.md) |
+| [**Art. 10a**](Drink_20171214.md) | <mark>&nbsp;Facilités : vélos et accessibilité&nbsp;</mark> |
 | [**Art. 11**](Art_11.md) | Faut-il restructurer l'article ?<br>**[alerte *Twitter* (2) du 04.11.2017](https://twitter.com/brab80webscom/status/926913650195038219)** | &nbsp; |
 | [**Art. 12**](Art_12.md) | Faut-il rappeler les responsabilités ?<br>**[alerte *Twitter* du 10.12.2017]()** | &nbsp; |
 | [**Art. 13 & 21**](Art_13_et_21_or.md) | Plus de sécurité en sous-sol ?<br>**[alerte *Twitter* du 26.11.2017](https://twitter.com/brab80webscom/status/934704494880882688)** | [**Art. 13 & 21**](Art_13_et_21.md) |
