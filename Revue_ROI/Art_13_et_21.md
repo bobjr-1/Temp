@@ -54,7 +54,7 @@ En vue de contribuer à l'amélioration de la sécurité dans les sous-sols (cou
 * **13.1.** ( inchangé )  
 * **13.2.** ( inchangé )  
 * **13.3.** Pour la sécurité de l’immeuble, il est <u>rappellé aux copropriétaires qu'ils doivent veiller à équiper leur cave de serrures adéquates et qu'il leur est</u> interdit de stocker dans les caves des matières inflammables, dangereuses ou pestilentielles.  
-* **13.4.** <u>Pour l'enlèvement à domicile de vos</u> objets encombrants, contact devra être pris avec <u>Bruxelles-Propreté en téléphonant au n° gratuit 0800/981.81 (! une fois par semestre !)</u>.  
+* **13.4.** <u>Pour l'enlèvement à domicile des</u> objets encombrants, contact devra être pris avec <u>Bruxelles-Propreté en téléphonant au n° gratuit 0800/981.81 (! une fois par semestre !)</u>.  
 * ( il est proposé de supprimer l'alinéa **13.5.** (Cf. point 7. de l'[avis des pompiers du 25.07.2012](Advies_Brandweer_20120725.pdf)) )  
 * **21.1.** ( inchangé )  
 * **21.2.** Il doit les déposer dans les conteneurs <u>aux endroits spécifiés par le Syndic</u> ; ceux-ci sont destinés à permettre le tri sélectif des ordures.  
