@@ -19,7 +19,7 @@ Ne feront d'objet de propositions à l'Assemblée Générale de 2018 que les art
 * Sujets évoqués lors des [**Drinks du printemps 2017**](Earlier_Drinks.md)
 * Sujets abordés lors du [**Drink du 26.10.2017**](Drink_20171026.md)
 * Sujets abordés lors du [**Drink du 30.11.2017**](Drink_20171130.md)
-* Sujets abordés lors du [**Drink du 14.12.2017**]() <font color="orange">ce lien n'est pas encore activé</font>
+* Sujets abordés lors du [**Drink du 14.12.2017**](Drink_20171214.md)
 
 ## &Eacute;tat de la réflexion
 
