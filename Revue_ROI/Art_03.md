@@ -16,15 +16,16 @@ Il est à noter que l'article 7 ("*Accès à l'habitation*") du [ROI du Logement
 <mark>&nbsp;NEW&nbsp;</mark>  
 Le [*Drink* du 30.11.2017](Drink_30.11.2017.md) a souhaité apporter les précisions suivantes :
 
-* que les dates d'intervention soient communiquées avec un préavis suffisant ;
-* que les explications soient fournies dans les deux langues officielles en Région de Bruxelles-Capitale
+* **à l'article 03.1 :** que les dates d'intervention soient communiquées avec un préavis suffisant
+    * => la formule `en temps utiles` a été suggérée, afin de préserver la liberté d'appréciation au Syndic ;
+* **à l'article 03.1 :** que les explications soient fournies dans les deux langues officielles en usage en Région de Bruxelles-Capitale.
 
 ### Projet de motion pour l'AG 2018
 
 Il est proposé de modifier l'article 3 du Règlement d'ordre intérieur de la manière suivante  (majorité simple) :
 
 **03.1.**  
-Les occupants de l’immeuble doivent fournir accès pour toutes réparations, pour l’entretien et le nettoyage des parties communes le nécessitant, <u>dès lors qu'un avis aura été déposé à l'entrée de l'immeuble ou par lettre personnalisée.</u>
+Les occupants de l’immeuble doivent fournir accès pour toutes réparations, pour l’entretien et le nettoyage des parties communes le nécessitant, <u>dès lors qu'un avis précisant les dates d'intervention dans les deux langues nationales aura été déposé en temps utiles à l'entrée de l'immeuble ou par lettre personnalisée.</u>
 
 **03.2.**  
 Si les occupants de l'immeuble s'absentent <u>pour une visite prévue par l'alinéa précédent</u>, ils sont invités à remettre une clé de leur local privatif à un mandataire dont le nom et l'adresse doivent être connus du Syndic, de manière à pouvoir accéder au local privatif si la chose est nécessaire.
