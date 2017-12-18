@@ -1,8 +1,14 @@
 ## Annexes au recommandé adressé à Thalys
 
-| Mesdames, Messieurs,<br>Je vous adresse ce recommandé avec accusé de réception |
+| Bruxelles, le mardi 19.12.2017 |
 | --- |
 | adressé à<br>Service Clientèle Thalys<br>B.P. 14<br>B - 1050 Bruxelles 5 |
+
+---
+
+| Mesdames, Messieurs,<br>Je vous adresse ce recommandé avec accusé de réception |
+| --- |
+| à qui de droit au<br>Service Clientèle Thalys<br>B.P. 14<br>B - 1050 Bruxelles 5 |
 
 * selon le site [RéponseConso](https://bobjr-1.github.io/Temp/Adresse_postale.html)
 
@@ -14,9 +20,9 @@
 
 ---
 
-| La description de mes vaines démarche est à télécharger |
+| La description de mes vaines démarche est à télécharger à l'adresse |
 | --- |
-| &Agrave; l'adresse[**https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html**](https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html) |
+| [**https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html**](https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html) |
 
 
 ### Mes renouvellements antérieurs
