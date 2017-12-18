@@ -1,5 +1,24 @@
 ## Annexes au recommandé adressé à Thalys
 
+| Mesdames, Messieurs,<br>Je vous adresse ce recommandé avec accusé de réception |
+| --- |
+| adressé à<br>Service Clientèle Thalys<br>B.P. 14<br>B - 1050 Bruxelles 5 |
+
+* selon le site [RéponseConso](https://bobjr-1.github.io/Temp/Adresse_postale.html)
+
+---
+
+| C'est en désespoir de cause que j'effectue ma demande de renouvellement |
+| --- |
+| Voir les démarches ci-dessous |
+
+---
+
+| La description de mes vaines démarche est à télécharger |
+| --- |
+| &Agrave; l'adresse[**https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html**](https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html) |
+
+
 ### Mes renouvellements antérieurs
 
 * [**Annexe**](Renouv_2015.pdf) : (ordre de virement passé le 12.11.2015 pour un renouvellementpour un an à partir du 27.11.2015)
@@ -46,5 +65,6 @@
 
 ### Impasse du formulaire de contact
 
-Voici la [**copie d'écran**](Impasse_formulaire_contact.jpg) qui montre l'impossibilité de décrire un problème de renouvellement d'abonnement ... (sauf erreur de manipulation de ma part - bien sûr)
+Voici la [**copie d'écran**](Impasse_formulaire_contact.png) qui montre l'impossibilité de décrire un problème de renouvellement d'abonnement ... (sauf erreur de manipulation de ma part - bien sûr)
+
 
