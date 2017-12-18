@@ -27,7 +27,7 @@
 
 ### Mes renouvellements antérieurs
 
-* [**Annexe**](Renouv_2015.pdf) : (ordre de virement passé le 12.11.2015 pour un renouvellementpour un an à partir du 27.11.2015)
+* [**Annexe**](Renouv_2015.pdf) : (ordre de virement passé le 12.11.2015 pour un renouvellement pour un an à partir du 27.11.2015)
 
 * [**Annexe**](Renouv_2016.pdf) : (ordre de virement passé le 24.11.2016 pour un renouvellementpour un an à partir du 20.12.2016)
 
@@ -42,7 +42,7 @@
 | Je désire donc un abonnement "Frequent" de 12 mois à partir du 16.01.2018 |
 | --- |
 | J'ai effectué le **18.12.2017 un virement de 1.050 &euro;** |
-| voir le Scan de mon ordre de virement en annexe-papier joint à mon recommandée ([également téléchargeable ici](Scan_VIREMENT_20171218_1050euro.pdf)) |
+| voir le Scan de mon ordre de virement en annexe-papier joint à mon recommandé avec AR ([également téléchargeable ici](Scan_VIREMENT_20171218_1050euro.pdf)) |
 
 ### Mes coordonnées "*Mon compte Thalys*"
 
