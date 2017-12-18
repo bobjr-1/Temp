@@ -44,4 +44,7 @@
     * au *Lounge Thalys* (5)pl. Horta) ;
     * au kiosque de renseignements
 
+### Impasse du formulaire de contact
+
+Voici la [**copie d'écran**](Impasse_formulaire_contact.jpg) qui montre l'impossibilité de décrire un problème de renouvellement d'abonnement ... (sauf erreur de manipulation de ma part - bien sûr)
 
