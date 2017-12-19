@@ -20,7 +20,7 @@
 
 ---
 
-| La description de mes vaines démarche est à télécharger à l'adresse |
+| La description de mes vaines démarches est à télécharger à l'adresse |
 | --- |
 | [**https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html**](https://bobjr-1.github.io/Temp/Renouv_Thalys_16012018.html) |
 
@@ -29,7 +29,7 @@
 
 * [**Annexe**](Renouv_2015.pdf) : (ordre de virement passé le 12.11.2015 pour un renouvellement pour un an à partir du 27.11.2015)
 
-* [**Annexe**](Renouv_2016.pdf) : (ordre de virement passé le 24.11.2016 pour un renouvellementpour un an à partir du 20.12.2016)
+* [**Annexe**](Renouv_2016.pdf) : (ordre de virement passé le 24.11.2016 pour un renouvellement pour un an à partir du 20.12.2016)
 
 ### Mon historique *TheCard Platinium*
 
@@ -66,7 +66,7 @@
 * suis allé le 01.12.2017 Place Stéphanie à Bruxelles, pour apprendre d'une commerçante voisine que les bureaux Thalys n'y existent plus depuis quelques mois 
 * suis allé le 01.12.2017 Gare du Midi à Bruxelles sans trouver personne pour m'aider (fournir une adresse mail, un bulletin de virement, ...)
     * aux guichets ;
-    * au *Lounge Thalys* (5)pl. Horta) ;
+    * au *Lounge Thalys* (place Horta) ;
     * au kiosque de renseignements
 
 ### Impasse du formulaire de contact
