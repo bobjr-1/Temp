@@ -2,9 +2,14 @@
 
 | Projets en cours | &nbsp; |
 | --- | --- |
+| Renouvellement des instances (2020) | https://bobjr-1.github.io/Temp/CSC_ACV_2020/StavaZA.html |
+
+---
+
+| Projets achevés | &nbsp; |
+| --- | --- |
 | Inscription du syndic à la BCE | https://bobjr-1.github.io/Temp/BCE/Inscription_syndic.html |
 | Service Social - déclaration 2017 | https://bobjr-1.github.io/Temp/SSoc/SSoc.html |
-| Service Social - déclaration 2018 | https://bobjr-1.github.io/Temp/SSoc/SSoc_2018.html |
 | Mémo pour les occupants | https://bobjr-1.github.io/Temp/Brab/Memo.html |
 | Médiation Contact Center | https://bobjr-1.github.io/Temp/Mediation_CC/Topo.html |
 | Valorisation *Web* d'une étude E4 | https://bobjr-1.github.io/Temp/E4/E4_StudyVal.html |
