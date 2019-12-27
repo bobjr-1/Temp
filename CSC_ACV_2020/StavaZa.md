@@ -14,7 +14,5 @@ Test
 * etc.
 
 <footer>
-
-![](Logo_CSC-SP.png) ![](Logo_ACV-OD.png)
-
+<img src="https://bobjr-1.github.io/Temp/CSC_ACV_2020/Logo_CSC-SP.png"><img src="https://bobjr-1.github.io/Temp/CSC_ACV_2020/Logo_ACV-OD.png">
 </footer>
