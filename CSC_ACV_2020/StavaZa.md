@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="Ulysses.css">
+![](Logo_CSC-SP.png) ![](Logo_ACV-OD.png)
 
 ## Renouvellement des instances
 
